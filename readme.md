@@ -9,7 +9,7 @@ Selamat datang di repository tugas dan praktikum kuliah saya. Repository ini dig
 Tabel di bawah ini digunakan untuk melacak progres praktikum mata kuliah **Basis Data**.
 
 | Pertemuan | Topik / Judul Praktikum | Status |
-| :---: | :--- | :---: | :--- |
+| :---: | :--- | :---: |
 | **01** | instalasi XAMPP | ✅ Sudah |
 | **02** | DDL Backup data | ✅ Sudah |
 | **03** | [Isi Topik Pertemuan 3] | ⏳ Belum |
@@ -32,7 +32,7 @@ Tabel di bawah ini digunakan untuk melacak progres praktikum mata kuliah **Basis
 Tabel di bawah ini digunakan untuk melacak progres praktikum mata kuliah **Struktur Data**.
 
 | Pertemuan | Topik / Judul Praktikum | Status |
-| :---: | :--- | :---: | :--- |
+| :---: | :--- | :---: |
 | **01** | Array dalam Python | ✅ Sudah |
 | **02** | Linked list | ✅ Sudah |
 | **03** | [Isi Topik Pertemuan 3] | ⏳ Belum |
