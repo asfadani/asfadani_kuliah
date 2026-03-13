@@ -35,8 +35,8 @@ Tabel di bawah ini digunakan untuk melacak progres praktikum mata kuliah **Struk
 | :---: | :--- | :---: |
 | **01** | Array dalam Python | ✅ Sudah |
 | **02** | Linked list | ✅ Sudah |
-| **03** | [Isi Topik Pertemuan 3] | ⏳ Belum |
-| **04** | [Isi Topik Pertemuan 4] | ⏳ Belum |
+| **03** | Stack pada python | ✅ Sudah |
+| **04** | Queue pada python | ✅ Sudah |
 | **05** | [Isi Topik Pertemuan 5] | ⏳ Belum |
 | **06** | [Isi Topik Pertemuan 6] | ⏳ Belum |
 | **07** | [Isi Topik Pertemuan 7] | ⏳ Belum |
