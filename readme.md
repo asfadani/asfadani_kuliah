@@ -10,11 +10,11 @@ Tabel di bawah ini digunakan untuk melacak progres praktikum mata kuliah **Basis
 
 | Pertemuan | Topik / Judul Praktikum | Status |
 | :---: | :--- | :---: |
-| **01** | instalasi XAMPP | ✅ Sudah |
+| **01** | instalasi XAMPP[tidak ada tugas] | ✅ Sudah |
 | **02** | DDL Backup data | ✅ Sudah |
-| **03** | [Isi Topik Pertemuan 3] | ⏳ Belum |
-| **04** | [Isi Topik Pertemuan 4] | ⏳ Belum |
-| **05** | [Isi Topik Pertemuan 5] | ⏳ Belum |
+| **03** | CRUD data | ✅ Sudah |
+| **04** | Filter dan agregasi 1 (product) | ✅ Sudah |
+| **05** | Filter dan agregasi + join 2 (kampus) | ✅ Sudah |
 | **06** | [Isi Topik Pertemuan 6] | ⏳ Belum |
 | **07** | [Isi Topik Pertemuan 7] | ⏳ Belum |
 | **08** | [Isi Topik Pertemuan 8] | ⏳ Belum |
