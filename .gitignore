@@ -6,6 +6,9 @@ config.local.json
 node_modules/
 *.log
 
+modul/
+*.pdf
+
 # Abaikan file build/temp
 build/
 *.tmp
