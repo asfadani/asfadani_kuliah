@@ -16,7 +16,7 @@ Tabel di bawah ini digunakan untuk melacak progres praktikum mata kuliah **Basis
 | **04** | Filter dan agregasi 1 (product) | ✅ Sudah |
 | **05** | Filter dan agregasi + join 2 (kampus) | ✅ Sudah |
 | **06** | Relasi antar tabel (Tidak ada file sql) | ✅ Sudah |
-| **07** | Responsi | ⏳ Belum |
+| **07** | Responsi | ✅ Sudah |
 | **08** | [Isi Topik Pertemuan 8] | ⏳ Belum |
 | **09** | [Isi Topik Pertemuan 9] | ⏳ Belum |
 | **10** | [Isi Topik Pertemuan 10] | ⏳ Belum |
