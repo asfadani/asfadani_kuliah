@@ -15,8 +15,8 @@ Tabel di bawah ini digunakan untuk melacak progres praktikum mata kuliah **Basis
 | **03** | CRUD data | ✅ Sudah |
 | **04** | Filter dan agregasi 1 (product) | ✅ Sudah |
 | **05** | Filter dan agregasi + join 2 (kampus) | ✅ Sudah |
-| **06** | Relasi antar tabel (Tidak ada file sql) | 🚧 Proses |
-| **07** | [Isi Topik Pertemuan 7] | ⏳ Belum |
+| **06** | Relasi antar tabel (Tidak ada file sql) | ✅ Sudah |
+| **07** | Responsi | ⏳ Belum |
 | **08** | [Isi Topik Pertemuan 8] | ⏳ Belum |
 | **09** | [Isi Topik Pertemuan 9] | ⏳ Belum |
 | **10** | [Isi Topik Pertemuan 10] | ⏳ Belum |
@@ -38,7 +38,7 @@ Tabel di bawah ini digunakan untuk melacak progres praktikum mata kuliah **Struk
 | **03** | Stack pada python | ✅ Sudah |
 | **04** | Queue pada python | ✅ Sudah |
 | **05** | Searching dalam Python | ✅ Sudah |
-| **06** | [Isi Topik Pertemuan 6] | ⏳ Belum |
+| **06** | Sorting pada Python | ✅ Sudah |
 | **07** | [Isi Topik Pertemuan 7] | ⏳ Belum |
 | **08** | [Isi Topik Pertemuan 8] | ⏳ Belum |
 | **09** | [Isi Topik Pertemuan 9] | ⏳ Belum |
