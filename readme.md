@@ -40,8 +40,8 @@ Tabel di bawah ini digunakan untuk melacak progres praktikum mata kuliah **Struk
 | **05** | Searching dalam Python | ✅ Sudah |
 | **06** | Sorting pada Python | ✅ Sudah |
 | **07** | Tree | ✅ Sudah |
-| **08** | Graph | 🚧 Proses |
-| **09** | [Isi Topik Pertemuan 9] | ⏳ Belum |
+| **08** | Graph | ✅ Sudah |
+| **09** | Hashing | 🚧 Proses |
 | **10** | [Isi Topik Pertemuan 10] | ⏳ Belum |
 | **11** | [Isi Topik Pertemuan 11] | ⏳ Belum |
 | **12** | [Isi Topik Pertemuan 12] | ⏳ Belum |
