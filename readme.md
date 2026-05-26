@@ -42,7 +42,7 @@ Tabel di bawah ini digunakan untuk melacak progres praktikum mata kuliah **Struk
 | **07** | Tree | ✅ Sudah |
 | **08** | Graph | ✅ Sudah |
 | **09** | Hashing | ✅ Sudah |
-| **10** | [Isi Topik Pertemuan 10] | ⏳ Belum |
+| **10** | Algoritma Dijkstra | ⏳ Belum |
 | **11** | [Isi Topik Pertemuan 11] | ⏳ Belum |
 | **12** | [Isi Topik Pertemuan 12] | ⏳ Belum |
 | **13** | [Isi Topik Pertemuan 13] | ⏳ Belum |
