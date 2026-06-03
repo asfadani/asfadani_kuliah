@@ -19,7 +19,7 @@ Tabel di bawah ini digunakan untuk melacak progres praktikum mata kuliah **Basis
 | **07** | Responsi | ✅ Sudah |
 | **08** | Sub Query | ✅ Sudah |
 | **09** | Teknik Optimasi Query SQL | ✅ Sudah |
-| **10** | [Isi Topik Pertemuan 10] | ⏳ Belum |
+| **10** | Keamanan Basis Data | 🚧 Proses |
 | **11** | [Isi Topik Pertemuan 11] | ⏳ Belum |
 | **12** | [Isi Topik Pertemuan 12] | ⏳ Belum |
 | **13** | [Isi Topik Pertemuan 13] | ⏳ Belum |
