@@ -43,7 +43,7 @@ Tabel di bawah ini digunakan untuk melacak progres praktikum mata kuliah **Struk
 | **08** | Graph | ✅ Sudah |
 | **09** | Hashing | ✅ Sudah |
 | **10** | Algoritma Dijkstra | ✅ Sudah |
-| **11** | Algoritma Greedy | 🚧 Proses |
+| **11** | Algoritma Greedy | ✅ Sudah |
 
 ---
 
