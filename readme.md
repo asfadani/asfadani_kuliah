@@ -19,12 +19,9 @@ Tabel di bawah ini digunakan untuk melacak progres praktikum mata kuliah **Basis
 | **07** | Responsi | ✅ Sudah |
 | **08** | Sub Query | ✅ Sudah |
 | **09** | Teknik Optimasi Query SQL | ✅ Sudah |
-| **10** | Keamanan Basis Data | 🚧 Proses |
-| **11** | [Isi Topik Pertemuan 11] | ⏳ Belum |
-| **12** | [Isi Topik Pertemuan 12] | ⏳ Belum |
-| **13** | [Isi Topik Pertemuan 13] | ⏳ Belum |
-| **14** | [Isi Topik Pertemuan 14] | ⏳ Belum |
-
+| **10** | Keamanan Basis Data | ✅ Sudah |
+| **11** | Procedure, Function, Trigger | ✅ Sudah |
+| **12** | Final Project |✅ Sudah |
 ---
 
 ## 🌳 Struktur Data
@@ -44,7 +41,6 @@ Tabel di bawah ini digunakan untuk melacak progres praktikum mata kuliah **Struk
 | **09** | Hashing | ✅ Sudah |
 | **10** | Algoritma Dijkstra | ✅ Sudah |
 | **11** | Algoritma Greedy | ✅ Sudah |
-
 ---
 
 ### 📝 Keterangan Status
