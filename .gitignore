@@ -25,3 +25,4 @@ venv/
 
 # Kecualikan file penting dari pengabaian
 !penting_tetap_di_track.log
+/Praktikum PBO/asfa_project1/target/
