@@ -1,0 +1,30 @@
+# Abaikan file .env dan konfigurasi lokal
+.env
+config.local.json
+
+# Abaikan semua folder node_modules dan log
+node_modules/
+*.log
+
+modul/
+*.pdf
+
+# Abaikan file build/temp
+build/
+*.tmp
+temp/
+
+# Abaikan file sistem operasi
+.DS_Store
+Thumbs.db
+
+.venv/
+*.venv
+venv/
+*venv
+
+# Kecualikan file penting dari pengabaian
+!penting_tetap_di_track.log
+/Praktikum PBO/asfa_project1/target/
+
+token.txt
