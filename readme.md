@@ -1,51 +1,53 @@
-# 🎓 Repository Praktikum Kuliah
+# 🎓 Repository Praktikum Kuliah Semester 3
 
-Selamat datang di repository tugas dan praktikum kuliah saya. Repository ini digunakan untuk menyimpan seluruh kode sumber, laporan, dan catatan dari mata kuliah praktikum selama semester berjalan.
+Selamat datang di repository tugas dan praktikum kuliah saya. Repository ini digunakan untuk menyimpan seluruh kode sumber, laporan, dan catatan dari mata kuliah praktikum selama semester 3.
 
 ---
 
-## 🗄️ Basis Data
+## 📚 Rekapitulasi Praktikum Selesai
 
-Tabel di bawah ini digunakan untuk melacak progres praktikum mata kuliah **Basis Data**.
+Tabel di bawah ini berisi rekapitulasi mata kuliah praktikum yang seluruh pertemuannya telah selesai dikerjakan.
 
-| Pertemuan | Topik / Judul Praktikum | Status |
-| :---: | :--- | :---: |
-| **01** | instalasi XAMPP[tidak ada tugas] | ✅ Sudah |
-| **02** | DDL Backup data | ✅ Sudah |
-| **03** | CRUD data | ✅ Sudah |
-| **04** | Filter dan agregasi 1 (product) | ✅ Sudah |
-| **05** | Filter dan agregasi + join 2 (kampus) | ✅ Sudah |
-| **06** | Relasi antar tabel (Tidak ada file sql) | ✅ Sudah |
-| **07** | Responsi | ✅ Sudah |
-| **08** | Sub Query | ✅ Sudah |
-| **09** | Teknik Optimasi Query SQL | ✅ Sudah |
-| **10** | Keamanan Basis Data | ✅ Sudah |
-| **11** | Procedure, Function, Trigger | ✅ Sudah |
-| **12** | Final Project |✅ Sudah |
+| Mata Kuliah | Keterangan | Status Akhir |
+| :--- | :--- | :---: |
+| **Basis Data** | Seluruh praktikum (Pertemuan 1 - 12) telah diselesaikan. | ✅ Selesai Semua |
+| **Struktur Data** | Seluruh praktikum (Pertemuan 1 - 11) telah diselesaikan. | ✅ Selesai Semua |
+
 ---
 
-## 🌳 Struktur Data
+## 🐘 Big Data
 
-Tabel di bawah ini digunakan untuk melacak progres praktikum mata kuliah **Struktur Data**.
+Tabel di bawah ini digunakan untuk melacak progres praktikum mata kuliah **Big Data**.
 
 | Pertemuan | Topik / Judul Praktikum | Status |
 | :---: | :--- | :---: |
-| **01** | Array dalam Python | ✅ Sudah |
-| **02** | Linked list | ✅ Sudah |
-| **03** | Stack pada python | ✅ Sudah |
-| **04** | Queue pada python | ✅ Sudah |
-| **05** | Searching dalam Python | ✅ Sudah |
-| **06** | Sorting pada Python | ✅ Sudah |
-| **07** | Tree | ✅ Sudah |
-| **08** | Graph | ✅ Sudah |
-| **09** | Hashing | ✅ Sudah |
-| **10** | Algoritma Dijkstra | ✅ Sudah |
-| **11** | Algoritma Greedy | ✅ Sudah |
+| **01** | Pengenalan Big Data & Arsitektur | ✅ Selesai |
+| **02** | Instalasi Ekosistem Hadoop | 🚧 Proses |
+| **03** | Operasi Dasar HDFS | ⏳ Belum |
+| **04** | Pemrosesan Data dengan MapReduce | ⏳ Belum |
+| **05** | Instalasi & Konfigurasi Apache Spark | ⏳ Belum |
+| **06** | Data Processing dengan PySpark | ⏳ Belum |
+
+---
+
+## ☕ Pemrograman Berorientasi Objek (PBO)
+
+Tabel di bawah ini digunakan untuk melacak progres praktikum mata kuliah **Pemrograman Berorientasi Objek (PBO)**.
+
+| Pertemuan | Topik / Judul Praktikum | Status |
+| :---: | :--- | :---: |
+| **01** | Pengenalan Paradigma OOP, Class & Object | ✅ Selesai |
+| **02** | Constructor & Access Modifier | ✅ Selesai |
+| **03** | Encapsulation (Getter & Setter) | 🚧 Proses |
+| **04** | Inheritance (Pewarisan) | ⏳ Belum |
+| **05** | Polymorphism (Overloading & Overriding) | ⏳ Belum |
+| **06** | Abstract Class & Interface | ⏳ Belum |
+
 ---
 
 ### 📝 Keterangan Status
 
-Ganti ikon pada kolom **Status** sesuai dengan progres Anda saat ini:
+Ganti ikon pada kolom **Status** sesuai dengan progres saat ini:
 
 * ✅ **Selesai**: Praktikum telah dikerjakan dan kode sudah di-*push* ke GitHub.
 * 🚧 **Proses**: Sedang dikerjakan / terdapat *bug* yang belum diperbaiki.
