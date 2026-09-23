@@ -8,14 +8,12 @@ package TugasModul5;
  *
  * @author Asus VivoBook Go 14
  */
-public class Anjing extends Hewan {
-    protected String jenisAnj;
-    protected String suara;
+public class Kitten extends Kucing {
+    String namaKitten;
     
     @Override
     public void tampilkanInfo() {
-       System.out.println("Nama hewan: " + Nama);
-       System.out.println("Jenis anjing: " + jenisAnj);
-       System.out.println("Hewan bersuara: " + suara);
+        System.out.println("Nama kitten: " + namaKitten);
+        System.out.println("Jenis kucing: "+ jenisCat);
     }
 }

@@ -11,8 +11,7 @@ package praktikum5;
 public class main {
     public static void main(String[] args) {
         System.out.println("Membuat objek mobil");
-        kendaraan jazz;
-        jazz = new mobil();
+        mobil jazz = new mobil();
         jazz.Nama = "Honda Jazz";
         jazz.topSpeed = 200;
         jazz.jumlahPintu = 4;
