@@ -22,11 +22,11 @@ Tabel di bawah ini digunakan untuk melacak progres praktikum mata kuliah **Big D
 | Pertemuan | Topik / Judul Praktikum | Status |
 | :---: | :--- | :---: |
 | **01** | Pengenalan Big Data & Arsitektur | ✅ Selesai |
-| **02** | Instalasi Ekosistem Hadoop | 🚧 Proses |
-| **03** | Operasi Dasar HDFS | ⏳ Belum |
-| **04** | Pemrosesan Data dengan MapReduce | ⏳ Belum |
-| **05** | Instalasi & Konfigurasi Apache Spark | ⏳ Belum |
-| **06** | Data Processing dengan PySpark | ⏳ Belum |
+| **02** | Instalasi Ekosistem Anaconda | ✅ Selesai |
+| **03** | Instalasi Ekosistem Hadoop | ✅ Selesai |
+| **04** | Instalasi & Konfigurasi Apache Spark | ✅ Selesai |
+| **05** | Data Processing dengan PySpark | ✅ Selesai |
+| **06** | Format Data Besar (Parquet & JSON) | 🚧 Proses |
 
 ---
 
@@ -38,9 +38,9 @@ Tabel di bawah ini digunakan untuk melacak progres praktikum mata kuliah **Pemro
 | :---: | :--- | :---: |
 | **01** | Pengenalan Paradigma OOP, Class & Object | ✅ Selesai |
 | **02** | Constructor & Access Modifier | ✅ Selesai |
-| **03** | Encapsulation (Getter & Setter) | 🚧 Proses |
-| **04** | Inheritance (Pewarisan) | ⏳ Belum |
-| **05** | Polymorphism (Overloading & Overriding) | ⏳ Belum |
+| **03** | Encapsulation (Getter & Setter) | ✅ Selesai |
+| **04** | Inheritance (Pewarisan) | ✅ Selesai |
+| **05** | Polymorphism (Overloading & Overriding) | ✅ Selesai |
 | **06** | Abstract Class & Interface | ⏳ Belum |
 
 ---
