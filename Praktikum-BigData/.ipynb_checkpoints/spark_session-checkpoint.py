@@ -1,13 +1,6 @@
-import os
-import sys
 from pyspark.sql import SparkSession
 
-# Menyamakan versi Python Worker dan Driver dengan Python Conda yang sedang aktif
-os.environ['PYSPARK_PYTHON'] = sys.executable
-os.environ['PYSPARK_DRIVER_PYTHON'] = sys.executable
-
-class SparkApp:
-    # Konstruktor untuk membuat objek sparksession nya
+class SparkApp :
     def __init__(self, app_name="BigDataApp"):
         self.app_name = app_name
 
@@ -22,16 +15,14 @@ class SparkApp:
 
         print("SparkSession siap. Versi Spark:", self.spark.version)
 
-    # method untuk mendapatkan session nya
     def getSession(self):
         return self.spark
 
-    # method untuk menghentikan session nya
     def stopSession(self):
         self.spark.stop()
         print(f"Session {self.app_name} sudah dihentikan")
 
-# mencoba menjalankan sesionnya
+
 if __name__ == "__main__":
     my_app = SparkApp("project1")
     spark = my_app.getSession()
