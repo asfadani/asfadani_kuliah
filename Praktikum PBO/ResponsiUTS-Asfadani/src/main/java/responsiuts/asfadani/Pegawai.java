@@ -9,7 +9,7 @@ package responsiuts.asfadani;
  * @author Asus VivoBook Go 14
  */
 public class Pegawai {
-    protected String namaPegawai;
+    private String namaPegawai;
     private long Gaji;
     
     // Enkapsulasi dan akses modifier    

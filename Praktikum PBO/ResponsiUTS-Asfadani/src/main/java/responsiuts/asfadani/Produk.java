@@ -12,7 +12,7 @@ package responsiuts.asfadani;
 import java.time.LocalDate;
 
 public class Produk {
-    protected String namaProduk;
+    private String namaProduk;
     private long Harga;
 
     // Enkapsulasi    
