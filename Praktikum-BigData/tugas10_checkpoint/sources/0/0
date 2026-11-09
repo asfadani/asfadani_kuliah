@@ -1,0 +1,5 @@
+v1
+{"path":"file:///home/asfadani/praktikum-bigdata/Praktikum-BigData/tugas10_stream/kopi_nusantara_batch_2.csv","timestamp":1794191345591,"batchId":0}
+{"path":"file:///home/asfadani/praktikum-bigdata/Praktikum-BigData/tugas10_stream/kopi_nusantara_batch_3.csv","timestamp":1794191593441,"batchId":0}
+{"path":"file:///home/asfadani/praktikum-bigdata/Praktikum-BigData/tugas10_stream/kopi_nusantara_batch_1.csv","timestamp":1794193063367,"batchId":0}
+{"path":"file:///home/asfadani/praktikum-bigdata/Praktikum-BigData/tugas10_stream/test_ls_1.csv","timestamp":1794193799447,"batchId":0}

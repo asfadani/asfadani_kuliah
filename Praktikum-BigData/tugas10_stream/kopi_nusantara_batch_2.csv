@@ -1,0 +1,9 @@
+pesanan_id,nama_cabang,nama_menu,qty,harga_satuan,waktu_pesan
+KN-009,Kopi Nusantara Solo,Americano,2,18000,2026-11-09 09:21:05
+KN-010,Kopi Nusantara Semarang,Kopi Susu Gula Aren,3,20000,2026-11-09 09:22:05
+KN-011,Kopi Nusantara Magelang,Espresso,1,15000,2026-11-09 09:24:05
+KN-012,Kopi Nusantara Jogja,Butterscotch Coffee,2,28000,2026-11-09 09:25:05
+KN-013,Kopi Nusantara Jogja,Manual Brew V60,1,22000,2026-11-09 09:26:05
+KN-014,Kopi Nusantara Solo,Matcha Latte,2,25000,2026-11-09 09:27:05
+KN-015,Kopi Nusantara Semarang,Kopi Susu Gula Aren,4,20000,2026-11-09 09:28:05
+KN-016,Kopi Nusantara Magelang,Americano,1,18000,2026-11-09 09:29:05

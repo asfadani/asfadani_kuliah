@@ -1,0 +1,5 @@
+v1
+{"path":"file:///home/asfadani/praktikum-bigdata/Praktikum-BigData/tugas10_output/part-00000-5c6a61bd-1e97-4858-8c39-37220a361d40-c000.snappy.parquet","size":2183,"isDir":false,"modificationTime":1794194145117,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/asfadani/praktikum-bigdata/Praktikum-BigData/tugas10_output/part-00001-32d8b964-3103-47dd-8881-702ac73b3e75-c000.snappy.parquet","size":2187,"isDir":false,"modificationTime":1794194145122,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/asfadani/praktikum-bigdata/Praktikum-BigData/tugas10_output/part-00002-eb3ff30a-16ac-4063-84eb-a856cd562e17-c000.snappy.parquet","size":2190,"isDir":false,"modificationTime":1794194145117,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/asfadani/praktikum-bigdata/Praktikum-BigData/tugas10_output/part-00003-337b2003-261b-4d74-b7bf-9eab10387c77-c000.snappy.parquet","size":1875,"isDir":false,"modificationTime":1794194145113,"blockReplication":1,"blockSize":33554432,"action":"add"}
