@@ -10,4 +10,5 @@ package Tugas9;
  */
 public interface Pembayaran {
     
+    double hitungPajak(double harga);
 }
