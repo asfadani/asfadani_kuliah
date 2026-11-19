@@ -1,0 +1,3001 @@
+nama_menu,cabang,waktu_pesan,qty,waktu_tunggu_menit,ulasan_positif
+Kopi Susu,Yogyakarta,Sore,5,5,1
+Es Teh,Yogyakarta,Pagi,1,21,0
+Cappuccino,Yogyakarta,Sore,5,15,0
+Kentang Goreng,Semarang,Malam,2,5,1
+Americano,Yogyakarta,Malam,2,10,0
+Americano,Yogyakarta,Pagi,3,10,1
+Americano,Yogyakarta,Siang,2,5,1
+Kentang Goreng,Yogyakarta,Malam,5,16,0
+Roti Bakar,Semarang,Pagi,5,21,0
+Kopi Susu,Semarang,Sore,1,23,0
+Es Teh,Semarang,Sore,3,9,1
+Kopi Susu,Magelang,Sore,1,24,0
+Kentang Goreng,Magelang,Malam,5,21,0
+Americano,Yogyakarta,Siang,3,3,1
+Cappuccino,Yogyakarta,Malam,4,17,1
+Cappuccino,Magelang,Malam,1,23,0
+Americano,Yogyakarta,Sore,2,15,1
+Roti Bakar,Magelang,Sore,5,12,0
+Kentang Goreng,Magelang,Pagi,3,2,1
+Kopi Susu,Yogyakarta,Siang,1,13,0
+Es Teh,Yogyakarta,Sore,2,23,0
+Kopi Susu,Yogyakarta,Pagi,3,23,0
+Americano,Yogyakarta,Siang,1,15,0
+Kopi Susu,Semarang,Malam,5,2,1
+Kopi Susu,Yogyakarta,Sore,3,19,0
+Roti Bakar,Magelang,Siang,3,19,0
+Americano,Semarang,Malam,3,24,0
+Roti Bakar,Magelang,Malam,3,23,0
+Kopi Susu,Yogyakarta,Siang,3,11,0
+Americano,Semarang,Pagi,2,15,0
+Kopi Susu,Magelang,Sore,1,4,1
+Americano,Yogyakarta,Siang,4,8,1
+Es Teh,Semarang,Siang,5,13,1
+Es Teh,Yogyakarta,Pagi,1,9,1
+Kentang Goreng,Semarang,Siang,5,18,0
+Cappuccino,Semarang,Sore,2,15,0
+Cappuccino,Magelang,Malam,1,11,1
+Roti Bakar,Semarang,Pagi,2,4,1
+Cappuccino,Magelang,Malam,1,23,0
+Roti Bakar,Magelang,Sore,4,12,0
+Cappuccino,Magelang,Malam,1,20,0
+Es Teh,Semarang,Siang,3,12,0
+Cappuccino,Yogyakarta,Pagi,5,16,0
+Americano,Yogyakarta,Pagi,1,7,1
+Es Teh,Yogyakarta,Siang,3,24,1
+Americano,Yogyakarta,Pagi,3,20,0
+Cappuccino,Magelang,Pagi,3,14,0
+Es Teh,Semarang,Siang,2,9,1
+Cappuccino,Magelang,Sore,1,6,1
+Cappuccino,Semarang,Siang,4,6,1
+Americano,Magelang,Sore,1,7,1
+Americano,Yogyakarta,Siang,4,7,0
+Americano,Magelang,Sore,2,12,0
+Es Teh,Magelang,Sore,5,7,1
+Roti Bakar,Yogyakarta,Malam,2,15,0
+Roti Bakar,Semarang,Pagi,3,9,0
+Kopi Susu,Magelang,Siang,4,24,0
+Americano,Yogyakarta,Sore,2,2,1
+Kentang Goreng,Yogyakarta,Siang,5,9,1
+Es Teh,Semarang,Pagi,2,16,0
+Americano,Semarang,Malam,4,2,1
+Es Teh,Semarang,Pagi,3,10,1
+Cappuccino,Magelang,Siang,4,23,0
+Roti Bakar,Semarang,Sore,2,4,1
+Roti Bakar,Magelang,Siang,2,23,0
+Roti Bakar,Yogyakarta,Siang,2,10,0
+Kopi Susu,Semarang,Pagi,5,21,0
+Kopi Susu,Magelang,Siang,5,10,0
+Cappuccino,Yogyakarta,Siang,5,2,1
+Kopi Susu,Yogyakarta,Sore,2,19,0
+Cappuccino,Magelang,Sore,4,11,0
+Es Teh,Magelang,Pagi,3,4,1
+Cappuccino,Magelang,Malam,1,24,0
+Americano,Semarang,Malam,2,23,0
+Es Teh,Semarang,Pagi,4,23,0
+Cappuccino,Semarang,Malam,3,22,0
+Roti Bakar,Semarang,Siang,1,24,0
+Kopi Susu,Magelang,Malam,5,7,1
+Americano,Semarang,Pagi,5,13,0
+Americano,Semarang,Malam,5,22,0
+Roti Bakar,Semarang,Pagi,4,18,1
+Cappuccino,Semarang,Malam,5,6,0
+Roti Bakar,Semarang,Siang,3,12,0
+Kentang Goreng,Yogyakarta,Siang,1,9,1
+Kopi Susu,Yogyakarta,Malam,3,8,1
+Roti Bakar,Magelang,Sore,1,22,0
+Es Teh,Yogyakarta,Pagi,2,6,1
+Americano,Yogyakarta,Siang,1,3,1
+Roti Bakar,Yogyakarta,Sore,2,10,0
+Kopi Susu,Semarang,Pagi,5,6,1
+Roti Bakar,Semarang,Malam,3,5,1
+Roti Bakar,Yogyakarta,Siang,2,16,0
+Kentang Goreng,Semarang,Sore,5,12,1
+Kopi Susu,Magelang,Sore,2,2,1
+Roti Bakar,Semarang,Malam,2,10,0
+Cappuccino,Magelang,Malam,3,21,0
+Cappuccino,Magelang,Pagi,3,17,0
+Roti Bakar,Magelang,Sore,4,4,1
+Americano,Yogyakarta,Malam,3,8,1
+Kopi Susu,Magelang,Siang,4,22,0
+Kentang Goreng,Semarang,Siang,4,16,0
+Americano,Semarang,Pagi,1,10,0
+Cappuccino,Yogyakarta,Siang,1,13,0
+Es Teh,Yogyakarta,Pagi,1,11,1
+Roti Bakar,Magelang,Siang,4,8,0
+Kopi Susu,Magelang,Malam,4,11,1
+Roti Bakar,Yogyakarta,Sore,2,13,1
+Kopi Susu,Yogyakarta,Siang,4,18,0
+Americano,Yogyakarta,Malam,5,24,0
+Cappuccino,Yogyakarta,Siang,4,3,1
+Kentang Goreng,Yogyakarta,Pagi,3,24,0
+Roti Bakar,Yogyakarta,Siang,1,14,0
+Es Teh,Yogyakarta,Sore,3,9,1
+Kopi Susu,Semarang,Siang,1,14,0
+Roti Bakar,Yogyakarta,Malam,1,7,1
+Americano,Yogyakarta,Pagi,5,10,1
+Kentang Goreng,Magelang,Malam,2,24,0
+Kopi Susu,Yogyakarta,Sore,5,8,1
+Roti Bakar,Magelang,Malam,4,24,0
+Kopi Susu,Magelang,Sore,4,14,0
+Roti Bakar,Semarang,Pagi,3,13,0
+Cappuccino,Yogyakarta,Siang,5,20,0
+Es Teh,Yogyakarta,Siang,4,14,1
+Cappuccino,Yogyakarta,Siang,5,23,0
+Es Teh,Yogyakarta,Sore,5,15,0
+Roti Bakar,Magelang,Siang,3,20,0
+Roti Bakar,Yogyakarta,Sore,4,21,0
+Americano,Yogyakarta,Pagi,4,14,1
+Cappuccino,Magelang,Pagi,3,16,0
+Cappuccino,Magelang,Siang,1,13,0
+Americano,Magelang,Pagi,2,7,1
+Cappuccino,Magelang,Siang,3,22,0
+Es Teh,Yogyakarta,Sore,2,14,1
+Kentang Goreng,Magelang,Sore,1,20,0
+Americano,Semarang,Sore,5,24,0
+Roti Bakar,Semarang,Siang,3,10,0
+Es Teh,Magelang,Malam,5,6,1
+Kentang Goreng,Yogyakarta,Malam,5,15,1
+Es Teh,Magelang,Malam,4,12,1
+Kentang Goreng,Semarang,Malam,5,4,1
+Kopi Susu,Yogyakarta,Siang,4,15,1
+Kopi Susu,Semarang,Pagi,4,11,0
+Es Teh,Yogyakarta,Malam,5,19,0
+Es Teh,Semarang,Sore,5,12,0
+Kopi Susu,Semarang,Sore,2,21,0
+Es Teh,Magelang,Pagi,3,16,0
+Roti Bakar,Yogyakarta,Malam,4,11,0
+Es Teh,Yogyakarta,Pagi,1,18,0
+Es Teh,Magelang,Sore,1,17,0
+Es Teh,Semarang,Malam,1,19,0
+Roti Bakar,Semarang,Sore,2,23,0
+Es Teh,Magelang,Siang,5,20,0
+Americano,Magelang,Siang,1,6,1
+Cappuccino,Magelang,Sore,4,4,1
+Kopi Susu,Yogyakarta,Siang,2,24,0
+Es Teh,Semarang,Malam,3,19,0
+Kentang Goreng,Yogyakarta,Sore,1,12,0
+Americano,Yogyakarta,Siang,2,21,0
+Roti Bakar,Yogyakarta,Malam,5,4,1
+Cappuccino,Yogyakarta,Malam,3,24,0
+Kentang Goreng,Semarang,Siang,3,4,1
+Roti Bakar,Semarang,Siang,1,14,0
+Kopi Susu,Magelang,Siang,2,24,0
+Roti Bakar,Semarang,Malam,5,3,1
+Es Teh,Semarang,Sore,5,13,1
+Americano,Magelang,Sore,3,4,1
+Kopi Susu,Magelang,Siang,4,6,1
+Kentang Goreng,Yogyakarta,Pagi,3,16,0
+Kentang Goreng,Magelang,Sore,5,5,1
+Americano,Magelang,Siang,1,4,1
+Americano,Magelang,Malam,4,2,1
+Roti Bakar,Semarang,Siang,5,4,1
+Roti Bakar,Semarang,Siang,2,12,1
+Es Teh,Yogyakarta,Sore,3,9,1
+Kopi Susu,Magelang,Siang,5,3,1
+Roti Bakar,Magelang,Malam,5,11,0
+Americano,Yogyakarta,Siang,1,12,0
+Americano,Yogyakarta,Sore,5,4,1
+Cappuccino,Semarang,Sore,5,9,1
+Cappuccino,Yogyakarta,Siang,2,19,0
+Es Teh,Yogyakarta,Malam,1,17,0
+Kopi Susu,Semarang,Malam,4,24,0
+Kopi Susu,Semarang,Siang,3,10,0
+Es Teh,Magelang,Sore,2,23,0
+Kopi Susu,Yogyakarta,Siang,3,7,1
+Roti Bakar,Semarang,Sore,3,13,0
+Es Teh,Yogyakarta,Malam,2,15,1
+Es Teh,Yogyakarta,Malam,1,23,0
+Cappuccino,Yogyakarta,Siang,2,4,1
+Kopi Susu,Semarang,Siang,5,8,0
+Cappuccino,Yogyakarta,Malam,1,24,0
+Kentang Goreng,Magelang,Pagi,5,13,0
+Cappuccino,Yogyakarta,Pagi,5,15,0
+Es Teh,Magelang,Siang,5,19,0
+Roti Bakar,Yogyakarta,Malam,4,23,0
+Cappuccino,Magelang,Siang,2,18,0
+Kopi Susu,Semarang,Sore,3,3,1
+Roti Bakar,Magelang,Pagi,4,14,0
+Cappuccino,Yogyakarta,Pagi,3,13,0
+Kentang Goreng,Magelang,Siang,2,9,0
+Cappuccino,Yogyakarta,Sore,3,13,1
+Cappuccino,Magelang,Siang,3,15,0
+Cappuccino,Yogyakarta,Siang,3,19,1
+Cappuccino,Yogyakarta,Pagi,5,4,0
+Cappuccino,Magelang,Sore,5,10,1
+Americano,Semarang,Siang,4,20,0
+Americano,Yogyakarta,Malam,1,18,1
+Cappuccino,Yogyakarta,Sore,3,16,1
+Cappuccino,Magelang,Malam,2,12,0
+Roti Bakar,Semarang,Siang,5,8,1
+Americano,Semarang,Siang,2,19,0
+Kopi Susu,Semarang,Malam,4,7,1
+Kopi Susu,Magelang,Malam,1,22,1
+Es Teh,Semarang,Siang,4,24,0
+Kopi Susu,Semarang,Siang,2,19,0
+Kentang Goreng,Magelang,Malam,2,13,1
+Roti Bakar,Semarang,Siang,1,14,1
+Cappuccino,Yogyakarta,Sore,3,8,1
+Roti Bakar,Semarang,Siang,1,9,0
+Roti Bakar,Semarang,Malam,1,19,0
+Americano,Magelang,Pagi,5,7,1
+Es Teh,Yogyakarta,Siang,1,6,1
+Cappuccino,Magelang,Pagi,3,11,0
+Kentang Goreng,Magelang,Siang,1,7,1
+Roti Bakar,Yogyakarta,Malam,2,5,0
+Cappuccino,Yogyakarta,Pagi,1,7,1
+Roti Bakar,Magelang,Siang,3,17,0
+Roti Bakar,Magelang,Pagi,4,15,0
+Roti Bakar,Magelang,Sore,3,6,0
+Cappuccino,Semarang,Pagi,5,23,0
+Americano,Yogyakarta,Siang,5,23,0
+Es Teh,Yogyakarta,Sore,3,14,0
+Kopi Susu,Magelang,Pagi,5,11,1
+Roti Bakar,Magelang,Malam,3,2,1
+Roti Bakar,Magelang,Pagi,5,12,0
+Es Teh,Magelang,Siang,5,16,0
+Cappuccino,Semarang,Malam,5,15,1
+Es Teh,Semarang,Pagi,5,9,1
+Americano,Yogyakarta,Pagi,1,8,1
+Americano,Semarang,Sore,2,24,0
+Cappuccino,Semarang,Sore,1,19,0
+Americano,Yogyakarta,Sore,2,17,0
+Roti Bakar,Yogyakarta,Malam,2,22,0
+Roti Bakar,Yogyakarta,Pagi,1,23,0
+Americano,Yogyakarta,Siang,2,11,1
+Americano,Magelang,Pagi,5,4,1
+Kopi Susu,Magelang,Siang,1,13,0
+Roti Bakar,Magelang,Malam,2,7,1
+Kopi Susu,Yogyakarta,Sore,1,21,0
+Kentang Goreng,Yogyakarta,Sore,2,17,0
+Kopi Susu,Magelang,Malam,3,20,0
+Es Teh,Yogyakarta,Malam,4,8,1
+Roti Bakar,Magelang,Pagi,1,11,1
+Kentang Goreng,Magelang,Siang,4,23,0
+Kopi Susu,Yogyakarta,Siang,5,19,0
+Roti Bakar,Magelang,Siang,5,7,1
+Americano,Semarang,Sore,3,22,0
+Americano,Semarang,Sore,4,7,1
+Kopi Susu,Yogyakarta,Sore,4,2,1
+Kentang Goreng,Yogyakarta,Siang,4,12,1
+Americano,Yogyakarta,Malam,4,2,1
+Kopi Susu,Yogyakarta,Malam,3,5,1
+Es Teh,Semarang,Malam,2,19,0
+Kopi Susu,Magelang,Sore,5,2,1
+Kopi Susu,Magelang,Siang,4,13,1
+Es Teh,Yogyakarta,Siang,2,6,1
+Es Teh,Semarang,Malam,2,20,0
+Cappuccino,Semarang,Pagi,1,16,0
+Kopi Susu,Yogyakarta,Pagi,4,15,0
+Americano,Yogyakarta,Siang,3,24,1
+Kentang Goreng,Semarang,Siang,2,17,0
+Cappuccino,Magelang,Sore,3,23,0
+Kentang Goreng,Semarang,Sore,4,18,0
+Kopi Susu,Magelang,Siang,3,18,0
+Es Teh,Yogyakarta,Siang,4,12,1
+Cappuccino,Yogyakarta,Pagi,5,9,0
+Roti Bakar,Yogyakarta,Malam,2,9,0
+Roti Bakar,Semarang,Siang,4,19,0
+Es Teh,Semarang,Siang,2,17,0
+Kentang Goreng,Semarang,Pagi,2,5,1
+Kentang Goreng,Magelang,Pagi,4,24,0
+Es Teh,Magelang,Malam,3,11,1
+Kopi Susu,Magelang,Pagi,1,19,0
+Kentang Goreng,Semarang,Sore,3,2,1
+Es Teh,Yogyakarta,Sore,3,24,0
+Roti Bakar,Yogyakarta,Siang,4,20,0
+Cappuccino,Yogyakarta,Malam,2,19,0
+Cappuccino,Yogyakarta,Pagi,3,23,0
+Roti Bakar,Semarang,Sore,3,17,0
+Roti Bakar,Semarang,Siang,1,22,0
+Roti Bakar,Yogyakarta,Sore,1,9,1
+Cappuccino,Semarang,Pagi,3,19,0
+Americano,Semarang,Sore,4,13,1
+Kopi Susu,Semarang,Sore,5,15,1
+Es Teh,Semarang,Sore,3,18,0
+Kentang Goreng,Semarang,Siang,4,2,1
+Cappuccino,Yogyakarta,Pagi,3,17,0
+Cappuccino,Yogyakarta,Pagi,2,8,1
+Kopi Susu,Yogyakarta,Sore,3,12,1
+Kentang Goreng,Yogyakarta,Sore,2,6,1
+Roti Bakar,Yogyakarta,Pagi,4,11,0
+Roti Bakar,Yogyakarta,Pagi,4,11,0
+Roti Bakar,Semarang,Sore,4,18,0
+Kopi Susu,Semarang,Siang,4,23,0
+Cappuccino,Yogyakarta,Siang,2,19,0
+Kopi Susu,Yogyakarta,Malam,1,19,1
+Kopi Susu,Semarang,Pagi,2,19,0
+Americano,Semarang,Pagi,4,12,1
+Americano,Magelang,Malam,4,17,1
+Roti Bakar,Yogyakarta,Malam,1,4,0
+Americano,Yogyakarta,Pagi,2,22,1
+Americano,Yogyakarta,Malam,5,13,1
+Cappuccino,Yogyakarta,Malam,2,24,0
+Kopi Susu,Yogyakarta,Sore,5,4,1
+Cappuccino,Yogyakarta,Pagi,4,6,1
+Americano,Yogyakarta,Siang,4,3,1
+Es Teh,Yogyakarta,Pagi,4,9,0
+Cappuccino,Yogyakarta,Sore,3,24,0
+Roti Bakar,Yogyakarta,Siang,1,15,0
+Roti Bakar,Yogyakarta,Pagi,1,24,0
+Roti Bakar,Yogyakarta,Sore,4,24,0
+Kopi Susu,Yogyakarta,Sore,4,14,0
+Kopi Susu,Magelang,Malam,5,8,1
+Kopi Susu,Yogyakarta,Malam,1,6,1
+Es Teh,Yogyakarta,Pagi,2,10,1
+Americano,Yogyakarta,Malam,5,13,1
+Cappuccino,Yogyakarta,Sore,2,3,1
+Cappuccino,Magelang,Pagi,1,20,0
+Americano,Semarang,Siang,3,3,1
+Cappuccino,Yogyakarta,Siang,3,3,0
+Roti Bakar,Yogyakarta,Siang,3,2,0
+Cappuccino,Semarang,Sore,4,9,0
+Kentang Goreng,Magelang,Sore,2,17,0
+Roti Bakar,Magelang,Malam,5,5,1
+Kentang Goreng,Yogyakarta,Siang,4,24,0
+Americano,Magelang,Malam,4,24,0
+Americano,Yogyakarta,Siang,5,2,1
+Kentang Goreng,Yogyakarta,Siang,4,22,1
+Kopi Susu,Yogyakarta,Malam,1,5,0
+Cappuccino,Magelang,Pagi,4,5,1
+Americano,Semarang,Sore,1,11,0
+Americano,Semarang,Pagi,5,7,0
+Kopi Susu,Semarang,Sore,3,21,0
+Kentang Goreng,Semarang,Siang,2,5,1
+Cappuccino,Yogyakarta,Malam,2,22,0
+Kopi Susu,Semarang,Pagi,2,7,1
+Es Teh,Semarang,Malam,4,13,0
+Cappuccino,Magelang,Siang,1,3,1
+Americano,Semarang,Siang,1,18,1
+Cappuccino,Yogyakarta,Pagi,2,12,1
+Americano,Yogyakarta,Malam,1,5,1
+Roti Bakar,Yogyakarta,Malam,2,16,0
+Es Teh,Semarang,Pagi,2,2,1
+Es Teh,Yogyakarta,Pagi,3,5,1
+Kopi Susu,Semarang,Sore,3,13,0
+Americano,Semarang,Malam,4,18,0
+Roti Bakar,Magelang,Siang,5,20,0
+Kentang Goreng,Yogyakarta,Sore,1,8,1
+Americano,Semarang,Pagi,5,4,1
+Cappuccino,Yogyakarta,Siang,1,13,1
+Roti Bakar,Semarang,Pagi,4,5,1
+Americano,Semarang,Pagi,1,9,1
+Es Teh,Magelang,Sore,5,9,0
+Cappuccino,Magelang,Pagi,3,20,0
+Roti Bakar,Semarang,Siang,4,11,1
+Americano,Yogyakarta,Siang,5,2,1
+Americano,Magelang,Siang,4,19,0
+Americano,Magelang,Pagi,1,22,0
+Americano,Semarang,Pagi,2,21,0
+Cappuccino,Yogyakarta,Pagi,2,23,0
+Es Teh,Semarang,Malam,1,7,1
+Es Teh,Semarang,Siang,2,8,1
+Es Teh,Yogyakarta,Pagi,3,14,0
+Roti Bakar,Semarang,Pagi,5,3,1
+Kentang Goreng,Yogyakarta,Malam,1,16,0
+Cappuccino,Magelang,Siang,2,22,0
+Kopi Susu,Magelang,Sore,3,3,1
+Kentang Goreng,Magelang,Malam,4,12,1
+Es Teh,Magelang,Malam,5,16,0
+Roti Bakar,Magelang,Pagi,4,19,0
+Roti Bakar,Semarang,Pagi,5,9,1
+Kentang Goreng,Magelang,Sore,5,10,0
+Cappuccino,Magelang,Pagi,4,19,1
+Americano,Semarang,Pagi,1,3,1
+Americano,Semarang,Malam,3,3,1
+Cappuccino,Semarang,Pagi,3,12,1
+Cappuccino,Yogyakarta,Sore,2,3,1
+Roti Bakar,Semarang,Sore,1,7,0
+Americano,Magelang,Sore,2,9,1
+Kentang Goreng,Magelang,Pagi,3,2,1
+Es Teh,Semarang,Siang,1,24,1
+Kentang Goreng,Semarang,Siang,4,6,1
+Cappuccino,Magelang,Siang,4,3,1
+Es Teh,Magelang,Malam,1,22,0
+Kopi Susu,Magelang,Sore,1,10,0
+Americano,Yogyakarta,Malam,3,22,0
+Roti Bakar,Yogyakarta,Siang,4,23,0
+Cappuccino,Yogyakarta,Pagi,1,21,0
+Kopi Susu,Semarang,Malam,4,16,0
+Kentang Goreng,Magelang,Pagi,3,19,0
+Kentang Goreng,Semarang,Pagi,2,4,1
+Americano,Magelang,Sore,5,17,0
+Kopi Susu,Yogyakarta,Siang,4,14,0
+Es Teh,Yogyakarta,Pagi,5,11,0
+Americano,Yogyakarta,Sore,3,23,0
+Kentang Goreng,Yogyakarta,Siang,4,4,1
+Es Teh,Yogyakarta,Siang,4,24,0
+Cappuccino,Magelang,Siang,4,17,1
+Es Teh,Semarang,Malam,4,4,1
+Cappuccino,Yogyakarta,Sore,5,19,1
+Kentang Goreng,Semarang,Malam,1,6,1
+Kentang Goreng,Semarang,Pagi,2,20,0
+Kopi Susu,Magelang,Malam,3,24,0
+Roti Bakar,Semarang,Siang,2,5,1
+Cappuccino,Semarang,Malam,3,23,0
+Kentang Goreng,Semarang,Sore,5,16,0
+Kentang Goreng,Yogyakarta,Malam,2,23,1
+Americano,Yogyakarta,Siang,4,16,0
+Cappuccino,Magelang,Sore,1,24,0
+Es Teh,Yogyakarta,Malam,2,6,1
+Kopi Susu,Semarang,Pagi,2,14,1
+Kopi Susu,Magelang,Siang,1,11,1
+Americano,Semarang,Siang,4,2,0
+Cappuccino,Magelang,Siang,3,24,0
+Kentang Goreng,Semarang,Pagi,5,24,0
+Americano,Semarang,Siang,3,6,0
+Americano,Magelang,Malam,5,2,1
+Cappuccino,Magelang,Pagi,5,17,0
+Kentang Goreng,Semarang,Malam,1,21,0
+Kentang Goreng,Magelang,Siang,1,6,1
+Roti Bakar,Yogyakarta,Malam,2,12,1
+Americano,Semarang,Siang,5,20,0
+Kopi Susu,Yogyakarta,Pagi,4,2,0
+Kopi Susu,Semarang,Pagi,3,7,1
+Kopi Susu,Magelang,Pagi,4,3,1
+Es Teh,Yogyakarta,Siang,1,17,0
+Kopi Susu,Semarang,Malam,5,18,1
+Roti Bakar,Yogyakarta,Malam,5,5,1
+Americano,Semarang,Siang,3,18,0
+Roti Bakar,Magelang,Sore,3,15,0
+Roti Bakar,Yogyakarta,Sore,3,9,0
+Americano,Yogyakarta,Pagi,3,13,0
+Cappuccino,Semarang,Pagi,5,19,0
+Roti Bakar,Semarang,Siang,2,19,0
+Es Teh,Yogyakarta,Siang,4,11,1
+Kopi Susu,Yogyakarta,Pagi,1,8,1
+Cappuccino,Yogyakarta,Malam,1,5,1
+Es Teh,Magelang,Sore,1,24,0
+Americano,Yogyakarta,Sore,2,8,1
+Es Teh,Yogyakarta,Pagi,4,22,0
+Kopi Susu,Yogyakarta,Malam,4,19,0
+Roti Bakar,Yogyakarta,Malam,2,18,0
+Kopi Susu,Semarang,Siang,5,23,0
+Es Teh,Semarang,Pagi,3,2,1
+Roti Bakar,Semarang,Pagi,2,3,0
+Es Teh,Yogyakarta,Sore,3,2,1
+Kopi Susu,Magelang,Siang,2,11,0
+Kopi Susu,Magelang,Sore,1,22,0
+Es Teh,Magelang,Sore,4,20,0
+Roti Bakar,Yogyakarta,Malam,3,18,0
+Kopi Susu,Semarang,Malam,1,4,1
+Roti Bakar,Yogyakarta,Malam,4,2,1
+Kopi Susu,Yogyakarta,Sore,3,12,0
+Es Teh,Yogyakarta,Sore,4,2,1
+Americano,Magelang,Malam,1,15,1
+Roti Bakar,Semarang,Malam,1,13,1
+Kopi Susu,Yogyakarta,Pagi,1,17,0
+Cappuccino,Magelang,Pagi,1,15,0
+Kopi Susu,Magelang,Pagi,1,15,0
+Roti Bakar,Magelang,Siang,5,2,1
+Kopi Susu,Semarang,Malam,3,13,0
+Americano,Semarang,Siang,2,10,0
+Roti Bakar,Yogyakarta,Sore,2,12,0
+Americano,Yogyakarta,Pagi,4,3,1
+Cappuccino,Semarang,Sore,1,21,0
+Roti Bakar,Magelang,Malam,5,8,1
+Cappuccino,Magelang,Malam,5,5,1
+Roti Bakar,Semarang,Sore,1,20,0
+Es Teh,Magelang,Siang,4,13,1
+Roti Bakar,Semarang,Sore,1,6,0
+Es Teh,Magelang,Siang,1,16,1
+Es Teh,Yogyakarta,Malam,2,24,1
+Kopi Susu,Yogyakarta,Malam,4,8,1
+Kentang Goreng,Yogyakarta,Siang,5,2,1
+Roti Bakar,Semarang,Pagi,3,23,0
+Kentang Goreng,Yogyakarta,Pagi,1,17,0
+Americano,Magelang,Siang,5,12,0
+Kentang Goreng,Magelang,Pagi,2,24,0
+Roti Bakar,Magelang,Pagi,3,21,0
+Cappuccino,Semarang,Pagi,3,19,0
+Americano,Semarang,Siang,2,9,1
+Cappuccino,Yogyakarta,Pagi,2,8,1
+Kopi Susu,Yogyakarta,Sore,5,19,0
+Cappuccino,Yogyakarta,Malam,3,8,1
+Roti Bakar,Magelang,Malam,1,19,0
+Kentang Goreng,Magelang,Pagi,4,23,0
+Cappuccino,Magelang,Sore,4,23,0
+Es Teh,Semarang,Malam,1,3,1
+Kentang Goreng,Magelang,Malam,2,13,0
+Kentang Goreng,Yogyakarta,Pagi,4,12,0
+Americano,Yogyakarta,Pagi,4,9,1
+Americano,Yogyakarta,Malam,1,5,1
+Es Teh,Yogyakarta,Sore,1,4,1
+Es Teh,Yogyakarta,Pagi,3,19,0
+Kopi Susu,Magelang,Sore,2,9,0
+Es Teh,Magelang,Sore,5,10,1
+Roti Bakar,Magelang,Pagi,2,22,0
+Roti Bakar,Semarang,Siang,2,22,1
+Roti Bakar,Magelang,Malam,2,2,1
+Es Teh,Yogyakarta,Siang,2,9,1
+Cappuccino,Magelang,Siang,5,15,1
+Kentang Goreng,Magelang,Siang,1,23,0
+Cappuccino,Yogyakarta,Siang,5,2,1
+Kopi Susu,Magelang,Malam,1,5,1
+Roti Bakar,Yogyakarta,Sore,5,20,0
+Cappuccino,Yogyakarta,Malam,4,18,0
+Kopi Susu,Yogyakarta,Sore,1,21,0
+Kentang Goreng,Magelang,Sore,3,5,1
+Kentang Goreng,Semarang,Sore,5,22,0
+Americano,Semarang,Pagi,4,10,1
+Americano,Yogyakarta,Siang,1,8,1
+Kentang Goreng,Magelang,Sore,2,19,1
+Roti Bakar,Yogyakarta,Sore,3,14,0
+Kopi Susu,Magelang,Sore,3,24,1
+Es Teh,Yogyakarta,Siang,1,17,0
+Kentang Goreng,Yogyakarta,Sore,2,2,1
+Kopi Susu,Magelang,Pagi,4,7,1
+Es Teh,Magelang,Malam,3,16,0
+Americano,Yogyakarta,Siang,3,8,1
+Americano,Magelang,Malam,1,12,0
+Kopi Susu,Semarang,Siang,2,12,0
+Kopi Susu,Semarang,Siang,3,14,0
+Roti Bakar,Magelang,Pagi,3,11,0
+Roti Bakar,Magelang,Sore,5,16,0
+Cappuccino,Magelang,Sore,5,24,0
+Es Teh,Semarang,Malam,3,22,0
+Kentang Goreng,Magelang,Siang,4,17,0
+Cappuccino,Magelang,Pagi,1,8,1
+Americano,Semarang,Pagi,3,24,0
+Es Teh,Magelang,Malam,5,14,0
+Roti Bakar,Magelang,Pagi,2,18,1
+Americano,Semarang,Siang,2,10,1
+Cappuccino,Magelang,Sore,1,4,1
+Cappuccino,Magelang,Sore,5,7,0
+Es Teh,Semarang,Sore,2,23,0
+Es Teh,Magelang,Pagi,4,22,0
+Kopi Susu,Semarang,Malam,4,10,0
+Kopi Susu,Magelang,Sore,2,24,0
+Es Teh,Magelang,Siang,1,3,1
+Es Teh,Semarang,Malam,3,9,1
+Roti Bakar,Yogyakarta,Malam,5,22,0
+Americano,Semarang,Pagi,2,15,0
+Es Teh,Yogyakarta,Siang,4,24,0
+Es Teh,Yogyakarta,Malam,4,17,1
+Cappuccino,Yogyakarta,Pagi,2,12,1
+Americano,Semarang,Malam,3,9,1
+Kentang Goreng,Yogyakarta,Pagi,2,7,1
+Es Teh,Yogyakarta,Malam,4,19,0
+Cappuccino,Magelang,Malam,2,15,1
+Roti Bakar,Magelang,Pagi,5,19,0
+Kentang Goreng,Yogyakarta,Malam,1,10,1
+Roti Bakar,Magelang,Sore,5,4,1
+Roti Bakar,Yogyakarta,Pagi,5,16,0
+Kentang Goreng,Yogyakarta,Siang,1,10,0
+Roti Bakar,Yogyakarta,Malam,2,10,1
+Cappuccino,Yogyakarta,Pagi,4,17,1
+Kopi Susu,Yogyakarta,Siang,4,21,1
+Americano,Yogyakarta,Pagi,4,3,0
+Americano,Semarang,Siang,2,6,0
+Kentang Goreng,Yogyakarta,Pagi,2,5,1
+Es Teh,Magelang,Siang,3,18,0
+Es Teh,Magelang,Sore,1,3,1
+Kopi Susu,Semarang,Sore,5,5,0
+Roti Bakar,Yogyakarta,Sore,1,16,1
+Kopi Susu,Semarang,Malam,1,14,1
+Kentang Goreng,Magelang,Pagi,1,4,1
+Kopi Susu,Yogyakarta,Pagi,1,16,0
+Kentang Goreng,Yogyakarta,Pagi,3,19,0
+Kentang Goreng,Yogyakarta,Pagi,5,9,1
+Cappuccino,Yogyakarta,Pagi,3,9,1
+Es Teh,Magelang,Malam,2,10,1
+Roti Bakar,Yogyakarta,Sore,5,13,1
+Kentang Goreng,Yogyakarta,Siang,4,6,1
+Es Teh,Yogyakarta,Pagi,1,5,1
+Kopi Susu,Yogyakarta,Malam,2,18,0
+Roti Bakar,Semarang,Pagi,3,18,0
+Kentang Goreng,Semarang,Sore,1,21,0
+Kentang Goreng,Yogyakarta,Siang,4,22,0
+Roti Bakar,Magelang,Siang,1,15,0
+Americano,Magelang,Sore,2,5,1
+Es Teh,Magelang,Sore,1,21,0
+Roti Bakar,Semarang,Sore,2,24,0
+Roti Bakar,Magelang,Pagi,2,22,0
+Roti Bakar,Semarang,Malam,5,12,0
+Americano,Semarang,Siang,1,23,0
+Americano,Magelang,Pagi,1,17,0
+Es Teh,Yogyakarta,Malam,2,21,0
+Kopi Susu,Semarang,Sore,3,23,0
+Kentang Goreng,Semarang,Siang,4,15,1
+Americano,Magelang,Malam,5,11,0
+Americano,Yogyakarta,Malam,5,3,1
+Cappuccino,Magelang,Siang,2,6,1
+Roti Bakar,Yogyakarta,Siang,4,3,1
+Kopi Susu,Yogyakarta,Pagi,2,3,1
+Roti Bakar,Semarang,Malam,2,7,1
+Americano,Magelang,Pagi,4,14,1
+Es Teh,Magelang,Sore,3,22,0
+Cappuccino,Magelang,Sore,3,2,1
+Americano,Semarang,Malam,2,19,0
+Roti Bakar,Semarang,Malam,3,3,1
+Americano,Magelang,Malam,1,22,0
+Americano,Yogyakarta,Siang,5,11,1
+Americano,Magelang,Malam,5,11,1
+Kentang Goreng,Semarang,Malam,1,19,0
+Cappuccino,Semarang,Siang,5,17,1
+Kentang Goreng,Magelang,Siang,3,22,1
+Americano,Magelang,Siang,2,5,1
+Kopi Susu,Yogyakarta,Malam,4,24,0
+Americano,Semarang,Pagi,5,4,1
+Kopi Susu,Magelang,Malam,4,6,1
+Kopi Susu,Semarang,Pagi,1,9,0
+Kopi Susu,Magelang,Sore,2,7,1
+Es Teh,Magelang,Pagi,1,22,0
+Americano,Yogyakarta,Siang,1,19,0
+Kopi Susu,Magelang,Pagi,1,10,1
+Kopi Susu,Yogyakarta,Siang,2,17,0
+Cappuccino,Magelang,Sore,1,2,1
+Cappuccino,Magelang,Siang,3,7,1
+Cappuccino,Semarang,Pagi,3,7,0
+Americano,Yogyakarta,Malam,5,17,0
+Kentang Goreng,Yogyakarta,Pagi,5,7,1
+Roti Bakar,Yogyakarta,Siang,4,24,1
+Kopi Susu,Yogyakarta,Pagi,5,12,0
+Roti Bakar,Semarang,Sore,2,12,0
+Cappuccino,Yogyakarta,Sore,5,19,1
+Kentang Goreng,Magelang,Pagi,3,23,0
+Kentang Goreng,Yogyakarta,Sore,5,2,1
+Americano,Magelang,Pagi,2,13,0
+Es Teh,Semarang,Sore,2,16,0
+Kopi Susu,Semarang,Sore,2,13,1
+Kentang Goreng,Magelang,Pagi,5,24,0
+Roti Bakar,Yogyakarta,Malam,3,24,0
+Roti Bakar,Semarang,Pagi,5,14,0
+Roti Bakar,Semarang,Siang,4,6,1
+Kopi Susu,Magelang,Malam,5,20,0
+Kopi Susu,Semarang,Siang,5,21,0
+Americano,Semarang,Siang,2,8,1
+Kentang Goreng,Yogyakarta,Pagi,5,18,0
+Es Teh,Magelang,Pagi,2,20,0
+Kopi Susu,Semarang,Sore,5,15,0
+Americano,Semarang,Siang,4,10,1
+Americano,Yogyakarta,Malam,4,15,0
+Kopi Susu,Magelang,Pagi,2,3,1
+Es Teh,Magelang,Siang,2,13,1
+Americano,Yogyakarta,Siang,5,24,0
+Americano,Yogyakarta,Malam,1,15,0
+Americano,Yogyakarta,Pagi,5,7,1
+Es Teh,Magelang,Siang,2,15,0
+Kentang Goreng,Magelang,Malam,4,16,0
+Kopi Susu,Semarang,Sore,3,4,1
+Americano,Semarang,Sore,1,10,1
+Cappuccino,Semarang,Pagi,4,8,0
+Kopi Susu,Magelang,Siang,3,2,1
+Es Teh,Magelang,Malam,3,10,1
+Americano,Magelang,Sore,3,5,0
+Cappuccino,Magelang,Pagi,3,13,0
+Kopi Susu,Yogyakarta,Siang,1,5,1
+Roti Bakar,Yogyakarta,Pagi,3,4,1
+Kopi Susu,Magelang,Siang,3,10,1
+Cappuccino,Semarang,Sore,4,4,1
+Roti Bakar,Semarang,Pagi,2,18,1
+Roti Bakar,Yogyakarta,Siang,5,17,0
+Es Teh,Semarang,Malam,2,13,0
+Kentang Goreng,Yogyakarta,Siang,1,11,1
+Cappuccino,Magelang,Malam,2,5,1
+Kentang Goreng,Yogyakarta,Pagi,3,2,1
+Americano,Magelang,Malam,3,13,0
+Es Teh,Yogyakarta,Pagi,5,8,1
+Cappuccino,Yogyakarta,Sore,4,17,0
+Roti Bakar,Magelang,Siang,2,6,1
+Es Teh,Semarang,Siang,2,7,1
+Roti Bakar,Semarang,Pagi,1,2,1
+Americano,Magelang,Pagi,5,9,1
+Cappuccino,Yogyakarta,Malam,5,10,0
+Es Teh,Yogyakarta,Pagi,3,11,0
+Kentang Goreng,Semarang,Siang,1,24,0
+Kentang Goreng,Semarang,Siang,5,19,1
+Kentang Goreng,Magelang,Malam,5,14,1
+Kopi Susu,Semarang,Siang,5,14,1
+Cappuccino,Yogyakarta,Malam,1,4,1
+Cappuccino,Semarang,Siang,4,15,0
+Kentang Goreng,Yogyakarta,Pagi,3,3,1
+Es Teh,Magelang,Pagi,1,15,0
+Americano,Magelang,Malam,5,13,1
+Americano,Semarang,Siang,4,19,1
+Kopi Susu,Yogyakarta,Pagi,4,17,0
+Cappuccino,Semarang,Sore,5,9,1
+Kopi Susu,Yogyakarta,Malam,1,19,0
+Roti Bakar,Yogyakarta,Pagi,1,15,1
+Es Teh,Magelang,Sore,4,4,1
+Kopi Susu,Magelang,Pagi,4,20,0
+Americano,Yogyakarta,Siang,3,23,0
+Es Teh,Magelang,Sore,2,20,0
+Americano,Magelang,Sore,1,2,1
+Americano,Magelang,Siang,4,15,0
+Cappuccino,Semarang,Sore,5,9,1
+Es Teh,Magelang,Malam,4,17,1
+Kopi Susu,Yogyakarta,Pagi,4,2,1
+Es Teh,Magelang,Siang,5,4,0
+Kentang Goreng,Semarang,Pagi,3,2,1
+Es Teh,Semarang,Pagi,4,21,0
+Cappuccino,Magelang,Malam,4,10,1
+Americano,Semarang,Pagi,5,19,0
+Roti Bakar,Yogyakarta,Sore,1,20,0
+Es Teh,Magelang,Malam,4,8,1
+Es Teh,Magelang,Malam,3,16,0
+Es Teh,Magelang,Siang,1,15,1
+Es Teh,Semarang,Pagi,4,6,0
+Americano,Yogyakarta,Pagi,1,3,1
+Es Teh,Semarang,Siang,2,15,0
+Es Teh,Yogyakarta,Sore,3,22,1
+Kentang Goreng,Semarang,Pagi,5,10,0
+Americano,Semarang,Malam,1,7,1
+Cappuccino,Magelang,Siang,1,24,0
+Roti Bakar,Yogyakarta,Sore,4,10,1
+Cappuccino,Magelang,Pagi,4,3,1
+Kopi Susu,Semarang,Siang,5,13,1
+Roti Bakar,Semarang,Siang,4,6,1
+Cappuccino,Magelang,Malam,4,24,0
+Americano,Magelang,Malam,1,7,1
+Roti Bakar,Semarang,Pagi,1,20,0
+Americano,Semarang,Malam,5,4,1
+Kopi Susu,Semarang,Siang,1,7,0
+Es Teh,Yogyakarta,Siang,3,2,1
+Americano,Yogyakarta,Pagi,4,8,1
+Es Teh,Yogyakarta,Pagi,4,5,1
+Es Teh,Yogyakarta,Malam,5,24,0
+Kentang Goreng,Semarang,Siang,4,17,1
+Kentang Goreng,Semarang,Pagi,3,3,1
+Cappuccino,Yogyakarta,Siang,4,21,0
+Americano,Yogyakarta,Pagi,1,9,0
+Cappuccino,Yogyakarta,Siang,1,22,0
+Americano,Yogyakarta,Malam,4,2,1
+Americano,Magelang,Sore,2,8,1
+Kentang Goreng,Semarang,Malam,2,2,1
+Cappuccino,Semarang,Pagi,4,11,1
+Kentang Goreng,Yogyakarta,Pagi,1,20,1
+Roti Bakar,Magelang,Sore,1,21,0
+Kentang Goreng,Semarang,Siang,1,15,0
+Es Teh,Semarang,Sore,3,9,1
+Americano,Yogyakarta,Malam,1,14,0
+Americano,Magelang,Pagi,1,23,0
+Es Teh,Semarang,Pagi,4,5,1
+Kentang Goreng,Magelang,Pagi,5,6,0
+Kopi Susu,Semarang,Sore,1,18,0
+Roti Bakar,Semarang,Pagi,2,3,1
+Cappuccino,Semarang,Siang,4,7,1
+Americano,Magelang,Malam,3,8,1
+Es Teh,Magelang,Siang,1,15,1
+Americano,Semarang,Siang,1,15,0
+Kopi Susu,Magelang,Sore,2,14,1
+Cappuccino,Yogyakarta,Siang,4,19,0
+Kentang Goreng,Yogyakarta,Sore,3,9,1
+Es Teh,Yogyakarta,Sore,2,14,0
+Es Teh,Yogyakarta,Siang,4,17,0
+Kopi Susu,Yogyakarta,Siang,2,6,1
+Kopi Susu,Magelang,Siang,1,10,1
+Kopi Susu,Yogyakarta,Pagi,3,2,1
+Kopi Susu,Magelang,Pagi,5,15,0
+Americano,Yogyakarta,Pagi,3,16,0
+Americano,Magelang,Malam,4,14,0
+Kentang Goreng,Yogyakarta,Malam,5,20,1
+Kopi Susu,Magelang,Siang,3,4,1
+Americano,Magelang,Siang,1,13,0
+Americano,Magelang,Malam,5,6,1
+Americano,Semarang,Siang,1,3,1
+Kentang Goreng,Magelang,Malam,3,16,0
+Americano,Yogyakarta,Malam,5,8,0
+Cappuccino,Magelang,Siang,4,4,0
+Cappuccino,Semarang,Sore,5,5,1
+Roti Bakar,Semarang,Pagi,5,6,1
+Roti Bakar,Yogyakarta,Pagi,3,19,0
+Cappuccino,Yogyakarta,Siang,2,14,0
+Americano,Magelang,Sore,5,11,1
+Kopi Susu,Yogyakarta,Sore,4,12,0
+Kopi Susu,Yogyakarta,Malam,1,9,1
+Roti Bakar,Semarang,Sore,3,16,0
+Roti Bakar,Yogyakarta,Sore,4,10,0
+Kopi Susu,Magelang,Pagi,1,19,0
+Es Teh,Semarang,Pagi,3,17,1
+Kentang Goreng,Yogyakarta,Sore,5,5,1
+Es Teh,Yogyakarta,Siang,1,16,0
+Es Teh,Yogyakarta,Sore,3,18,0
+Cappuccino,Yogyakarta,Siang,1,11,0
+Kopi Susu,Yogyakarta,Malam,4,6,1
+Kentang Goreng,Semarang,Malam,3,10,1
+Roti Bakar,Magelang,Pagi,3,9,1
+Es Teh,Magelang,Malam,4,9,1
+Kentang Goreng,Magelang,Siang,1,5,1
+Kentang Goreng,Yogyakarta,Pagi,3,3,1
+Roti Bakar,Yogyakarta,Sore,1,23,0
+Kopi Susu,Yogyakarta,Sore,2,17,1
+Cappuccino,Semarang,Malam,4,24,0
+Roti Bakar,Magelang,Pagi,4,10,1
+Cappuccino,Yogyakarta,Pagi,3,17,0
+Kentang Goreng,Yogyakarta,Siang,4,17,1
+Kopi Susu,Magelang,Siang,4,21,0
+Kentang Goreng,Magelang,Malam,3,19,0
+Americano,Magelang,Sore,3,16,0
+Roti Bakar,Yogyakarta,Siang,2,21,0
+Kentang Goreng,Yogyakarta,Malam,3,24,0
+Kopi Susu,Magelang,Pagi,4,21,0
+Kentang Goreng,Magelang,Pagi,5,14,1
+Es Teh,Magelang,Pagi,3,3,0
+Kentang Goreng,Semarang,Pagi,4,6,1
+Roti Bakar,Yogyakarta,Siang,2,21,0
+Kentang Goreng,Yogyakarta,Pagi,4,21,0
+Cappuccino,Magelang,Sore,2,9,1
+Americano,Magelang,Pagi,2,9,1
+Kopi Susu,Semarang,Malam,2,7,1
+Cappuccino,Yogyakarta,Pagi,3,14,1
+Es Teh,Semarang,Malam,3,13,0
+Kopi Susu,Semarang,Sore,2,11,0
+Kopi Susu,Semarang,Malam,4,7,1
+Roti Bakar,Magelang,Sore,1,22,0
+Kopi Susu,Semarang,Pagi,2,21,0
+Roti Bakar,Yogyakarta,Malam,2,16,0
+Es Teh,Magelang,Siang,4,14,1
+Cappuccino,Semarang,Pagi,3,21,0
+Roti Bakar,Yogyakarta,Malam,5,21,0
+Kentang Goreng,Magelang,Sore,1,6,1
+Cappuccino,Magelang,Pagi,1,3,1
+Americano,Semarang,Pagi,5,22,0
+Americano,Magelang,Malam,3,6,1
+Kopi Susu,Magelang,Siang,4,22,0
+Kopi Susu,Semarang,Pagi,3,17,0
+Cappuccino,Semarang,Siang,1,10,1
+Roti Bakar,Yogyakarta,Sore,4,3,1
+Cappuccino,Semarang,Sore,1,19,0
+Es Teh,Magelang,Pagi,3,9,1
+Es Teh,Yogyakarta,Sore,1,16,1
+Kopi Susu,Magelang,Sore,1,23,0
+Roti Bakar,Yogyakarta,Pagi,2,17,0
+Roti Bakar,Semarang,Siang,3,14,0
+Kopi Susu,Yogyakarta,Sore,3,10,0
+Roti Bakar,Yogyakarta,Pagi,2,4,1
+Americano,Magelang,Malam,4,21,0
+Kopi Susu,Semarang,Pagi,1,21,0
+Kopi Susu,Yogyakarta,Siang,1,20,0
+Es Teh,Magelang,Pagi,1,4,1
+Roti Bakar,Semarang,Malam,1,19,0
+Kopi Susu,Semarang,Malam,3,14,0
+Kentang Goreng,Yogyakarta,Pagi,2,16,0
+Americano,Semarang,Sore,1,24,0
+Americano,Semarang,Pagi,3,4,1
+Cappuccino,Yogyakarta,Pagi,1,13,0
+Es Teh,Yogyakarta,Siang,1,21,0
+Kopi Susu,Yogyakarta,Malam,1,5,1
+Kentang Goreng,Yogyakarta,Malam,2,16,1
+Kopi Susu,Semarang,Pagi,5,3,1
+Roti Bakar,Semarang,Siang,1,18,0
+Roti Bakar,Yogyakarta,Siang,5,19,0
+Es Teh,Semarang,Malam,4,4,1
+Kopi Susu,Magelang,Siang,1,13,1
+Roti Bakar,Yogyakarta,Siang,3,6,1
+Es Teh,Semarang,Siang,5,14,0
+Cappuccino,Magelang,Sore,2,17,0
+Cappuccino,Semarang,Siang,5,16,0
+Kentang Goreng,Semarang,Malam,2,6,1
+Cappuccino,Yogyakarta,Malam,5,18,0
+Cappuccino,Yogyakarta,Malam,1,20,0
+Cappuccino,Semarang,Sore,2,2,1
+Cappuccino,Magelang,Malam,5,17,0
+Kopi Susu,Yogyakarta,Malam,4,24,0
+Cappuccino,Yogyakarta,Malam,4,7,1
+Cappuccino,Magelang,Malam,3,10,1
+Cappuccino,Semarang,Sore,1,7,1
+Es Teh,Yogyakarta,Pagi,2,2,1
+Cappuccino,Magelang,Pagi,3,19,0
+Roti Bakar,Yogyakarta,Malam,5,23,0
+Americano,Yogyakarta,Malam,2,10,0
+Es Teh,Yogyakarta,Malam,1,21,0
+Kopi Susu,Magelang,Malam,3,3,1
+Americano,Magelang,Malam,1,19,0
+Americano,Magelang,Sore,1,10,1
+Americano,Magelang,Siang,5,20,0
+Es Teh,Semarang,Sore,2,16,0
+Roti Bakar,Semarang,Pagi,3,13,1
+Americano,Magelang,Sore,1,11,0
+Kopi Susu,Yogyakarta,Sore,4,23,0
+Es Teh,Yogyakarta,Siang,5,20,0
+Es Teh,Magelang,Pagi,5,17,0
+Cappuccino,Yogyakarta,Pagi,4,19,1
+Americano,Yogyakarta,Sore,4,2,1
+Cappuccino,Semarang,Siang,1,10,0
+Roti Bakar,Yogyakarta,Siang,4,5,1
+Roti Bakar,Yogyakarta,Malam,2,10,1
+Roti Bakar,Yogyakarta,Sore,1,6,1
+Kentang Goreng,Yogyakarta,Siang,1,17,1
+Cappuccino,Yogyakarta,Pagi,2,14,0
+Americano,Yogyakarta,Malam,3,9,0
+Kentang Goreng,Magelang,Pagi,4,11,0
+Es Teh,Semarang,Malam,2,11,1
+Kentang Goreng,Magelang,Malam,2,7,1
+Kentang Goreng,Yogyakarta,Siang,4,12,0
+Kopi Susu,Magelang,Pagi,5,8,0
+Americano,Yogyakarta,Siang,1,10,1
+Kopi Susu,Semarang,Siang,2,23,0
+Cappuccino,Semarang,Sore,4,5,1
+Es Teh,Yogyakarta,Siang,4,13,1
+Kentang Goreng,Yogyakarta,Pagi,1,9,1
+Roti Bakar,Yogyakarta,Malam,1,22,0
+Roti Bakar,Yogyakarta,Pagi,1,2,1
+Es Teh,Yogyakarta,Sore,4,20,0
+Roti Bakar,Yogyakarta,Sore,5,2,1
+Kopi Susu,Semarang,Sore,2,6,1
+Kentang Goreng,Yogyakarta,Pagi,3,21,0
+Roti Bakar,Semarang,Malam,2,14,0
+Kentang Goreng,Yogyakarta,Sore,5,4,1
+Cappuccino,Yogyakarta,Pagi,5,24,0
+Es Teh,Magelang,Siang,4,20,0
+Americano,Semarang,Sore,2,3,1
+Kentang Goreng,Magelang,Sore,3,15,0
+Roti Bakar,Magelang,Pagi,4,14,1
+Kentang Goreng,Magelang,Sore,5,21,1
+Kopi Susu,Yogyakarta,Pagi,4,18,0
+Kopi Susu,Semarang,Sore,3,10,0
+Americano,Semarang,Malam,3,4,1
+Kentang Goreng,Semarang,Malam,5,20,0
+Kentang Goreng,Magelang,Pagi,3,15,1
+Americano,Yogyakarta,Siang,4,17,0
+Kentang Goreng,Yogyakarta,Malam,2,14,1
+Es Teh,Semarang,Siang,1,13,1
+Americano,Semarang,Sore,3,16,0
+Americano,Magelang,Malam,2,17,0
+Es Teh,Magelang,Sore,2,15,0
+Roti Bakar,Yogyakarta,Siang,1,22,0
+Es Teh,Magelang,Siang,1,17,1
+Americano,Magelang,Siang,3,9,1
+Cappuccino,Semarang,Malam,1,3,1
+Cappuccino,Magelang,Malam,5,13,0
+Cappuccino,Semarang,Siang,3,20,0
+Americano,Yogyakarta,Pagi,1,11,1
+Es Teh,Semarang,Pagi,2,11,0
+Es Teh,Yogyakarta,Malam,5,21,0
+Cappuccino,Yogyakarta,Pagi,2,23,0
+Roti Bakar,Semarang,Sore,2,18,1
+Kopi Susu,Magelang,Sore,2,12,0
+Americano,Yogyakarta,Malam,1,15,0
+Americano,Semarang,Sore,4,12,0
+Cappuccino,Semarang,Sore,5,10,0
+Kentang Goreng,Semarang,Pagi,1,19,0
+Kopi Susu,Yogyakarta,Siang,3,8,0
+Kentang Goreng,Yogyakarta,Sore,4,14,0
+Cappuccino,Magelang,Malam,2,11,1
+Roti Bakar,Magelang,Siang,5,10,0
+Kentang Goreng,Magelang,Malam,4,21,0
+Es Teh,Yogyakarta,Sore,2,22,0
+Kopi Susu,Yogyakarta,Malam,4,4,1
+Cappuccino,Semarang,Malam,5,10,1
+Roti Bakar,Semarang,Malam,4,17,0
+Kopi Susu,Magelang,Siang,1,21,0
+Es Teh,Magelang,Malam,3,24,0
+Es Teh,Yogyakarta,Siang,1,12,0
+Roti Bakar,Semarang,Malam,4,15,0
+Kentang Goreng,Semarang,Sore,2,2,1
+Es Teh,Magelang,Sore,4,15,0
+Americano,Magelang,Pagi,5,13,1
+Kentang Goreng,Magelang,Malam,5,7,0
+Kopi Susu,Yogyakarta,Siang,1,18,0
+Cappuccino,Magelang,Pagi,3,8,0
+Cappuccino,Yogyakarta,Malam,4,18,0
+Kopi Susu,Semarang,Malam,3,16,0
+Roti Bakar,Yogyakarta,Sore,1,16,0
+Es Teh,Yogyakarta,Sore,4,22,0
+Roti Bakar,Magelang,Malam,4,21,0
+Kentang Goreng,Yogyakarta,Sore,1,12,1
+Americano,Semarang,Sore,2,10,1
+Kopi Susu,Magelang,Sore,1,23,0
+Kentang Goreng,Yogyakarta,Malam,3,9,0
+Cappuccino,Magelang,Malam,1,13,0
+Es Teh,Yogyakarta,Pagi,4,5,1
+Es Teh,Magelang,Pagi,2,2,1
+Americano,Semarang,Siang,4,19,0
+Es Teh,Semarang,Pagi,4,17,0
+Es Teh,Yogyakarta,Pagi,1,3,1
+Es Teh,Magelang,Malam,4,17,0
+Roti Bakar,Yogyakarta,Pagi,4,14,0
+Roti Bakar,Semarang,Sore,2,13,0
+Roti Bakar,Semarang,Malam,1,24,1
+Kopi Susu,Semarang,Sore,3,10,1
+Roti Bakar,Yogyakarta,Siang,3,20,0
+Americano,Magelang,Sore,1,20,0
+Kentang Goreng,Magelang,Pagi,3,23,0
+Kopi Susu,Semarang,Siang,2,9,0
+Roti Bakar,Magelang,Pagi,1,22,0
+Americano,Yogyakarta,Pagi,5,3,1
+Kopi Susu,Yogyakarta,Malam,2,9,1
+Americano,Yogyakarta,Sore,4,20,0
+Kopi Susu,Magelang,Siang,3,17,1
+Cappuccino,Yogyakarta,Siang,5,21,0
+Es Teh,Yogyakarta,Siang,2,12,1
+Kopi Susu,Yogyakarta,Malam,2,23,1
+Cappuccino,Magelang,Sore,3,9,1
+Cappuccino,Yogyakarta,Siang,3,18,0
+Es Teh,Semarang,Pagi,5,16,0
+Es Teh,Semarang,Malam,3,3,0
+Kentang Goreng,Semarang,Siang,1,12,1
+Es Teh,Semarang,Siang,4,4,1
+Kentang Goreng,Magelang,Siang,1,22,0
+Kentang Goreng,Semarang,Siang,4,21,0
+Cappuccino,Magelang,Siang,4,18,1
+Kentang Goreng,Magelang,Sore,4,3,1
+Americano,Yogyakarta,Sore,4,13,1
+Roti Bakar,Magelang,Siang,2,3,1
+Kopi Susu,Magelang,Siang,4,15,0
+Americano,Semarang,Sore,2,16,0
+Es Teh,Semarang,Siang,4,16,1
+Cappuccino,Yogyakarta,Siang,1,9,1
+Americano,Semarang,Pagi,1,14,1
+Kopi Susu,Magelang,Malam,4,3,1
+Kopi Susu,Semarang,Sore,3,4,1
+Cappuccino,Magelang,Pagi,5,16,0
+Es Teh,Yogyakarta,Sore,4,7,1
+Es Teh,Semarang,Malam,2,13,0
+Kentang Goreng,Magelang,Siang,5,9,0
+Es Teh,Magelang,Sore,2,10,0
+Kopi Susu,Magelang,Malam,2,13,1
+Kopi Susu,Magelang,Siang,1,3,1
+Cappuccino,Semarang,Pagi,4,13,0
+Roti Bakar,Magelang,Malam,1,13,1
+Kentang Goreng,Magelang,Pagi,3,18,0
+Cappuccino,Magelang,Siang,3,5,1
+Roti Bakar,Yogyakarta,Malam,1,24,0
+Kopi Susu,Semarang,Pagi,1,9,1
+Cappuccino,Yogyakarta,Sore,2,4,0
+Roti Bakar,Semarang,Sore,4,21,0
+Kopi Susu,Magelang,Pagi,3,13,0
+Kentang Goreng,Magelang,Sore,2,20,0
+Kentang Goreng,Yogyakarta,Pagi,2,22,0
+Kopi Susu,Yogyakarta,Sore,5,13,0
+Cappuccino,Semarang,Sore,1,21,1
+Cappuccino,Yogyakarta,Malam,3,11,1
+Cappuccino,Yogyakarta,Pagi,3,14,0
+Kentang Goreng,Magelang,Sore,3,21,0
+Cappuccino,Yogyakarta,Siang,5,20,1
+Cappuccino,Semarang,Siang,5,20,0
+Kentang Goreng,Yogyakarta,Malam,2,5,1
+Kentang Goreng,Magelang,Siang,5,12,0
+Kentang Goreng,Yogyakarta,Sore,1,2,0
+Roti Bakar,Yogyakarta,Pagi,4,18,1
+Kentang Goreng,Magelang,Sore,3,7,1
+Roti Bakar,Magelang,Siang,4,22,0
+Es Teh,Semarang,Pagi,5,18,0
+Es Teh,Yogyakarta,Siang,5,11,1
+Americano,Semarang,Siang,2,10,0
+Kentang Goreng,Semarang,Siang,3,3,1
+Kentang Goreng,Semarang,Pagi,3,10,1
+Es Teh,Yogyakarta,Pagi,5,19,0
+Kentang Goreng,Magelang,Siang,3,14,0
+Es Teh,Magelang,Malam,1,6,1
+Es Teh,Semarang,Pagi,3,12,0
+Americano,Yogyakarta,Siang,5,16,0
+Kopi Susu,Semarang,Pagi,2,14,1
+Es Teh,Yogyakarta,Malam,4,22,0
+Cappuccino,Yogyakarta,Malam,2,6,1
+Roti Bakar,Semarang,Pagi,5,10,1
+Roti Bakar,Yogyakarta,Sore,4,10,1
+Cappuccino,Semarang,Pagi,5,4,1
+Americano,Yogyakarta,Sore,2,19,0
+Roti Bakar,Yogyakarta,Malam,2,17,0
+Roti Bakar,Yogyakarta,Siang,4,17,1
+Kopi Susu,Semarang,Sore,2,6,1
+Kopi Susu,Magelang,Malam,3,12,1
+Cappuccino,Yogyakarta,Pagi,4,14,0
+Kentang Goreng,Yogyakarta,Siang,3,18,1
+Kopi Susu,Yogyakarta,Pagi,5,20,0
+Kentang Goreng,Magelang,Malam,3,22,0
+Cappuccino,Magelang,Malam,3,11,1
+Cappuccino,Magelang,Malam,2,7,1
+Cappuccino,Yogyakarta,Malam,1,11,1
+Es Teh,Yogyakarta,Malam,4,2,1
+Kopi Susu,Semarang,Sore,2,10,1
+Americano,Magelang,Malam,2,5,1
+Kopi Susu,Semarang,Malam,3,16,1
+Kopi Susu,Yogyakarta,Pagi,3,22,0
+Kopi Susu,Semarang,Pagi,5,24,0
+Es Teh,Semarang,Pagi,1,20,1
+Kopi Susu,Semarang,Malam,5,20,0
+Es Teh,Magelang,Pagi,2,2,0
+Cappuccino,Yogyakarta,Pagi,1,5,1
+Kopi Susu,Magelang,Pagi,5,15,1
+Kopi Susu,Yogyakarta,Malam,1,2,1
+Cappuccino,Yogyakarta,Siang,5,2,1
+Es Teh,Magelang,Pagi,3,21,0
+Es Teh,Yogyakarta,Pagi,4,8,1
+Roti Bakar,Semarang,Malam,2,5,1
+Cappuccino,Magelang,Malam,5,19,0
+Kopi Susu,Semarang,Siang,2,20,1
+Cappuccino,Semarang,Malam,5,9,0
+Americano,Magelang,Sore,1,7,0
+Cappuccino,Semarang,Malam,2,10,1
+Americano,Magelang,Pagi,3,2,1
+Roti Bakar,Semarang,Malam,3,3,0
+Cappuccino,Semarang,Malam,2,14,1
+Cappuccino,Yogyakarta,Siang,2,6,1
+Kentang Goreng,Semarang,Siang,3,10,1
+Americano,Yogyakarta,Malam,4,23,0
+Kopi Susu,Magelang,Siang,3,6,1
+Kopi Susu,Semarang,Malam,1,13,1
+Kopi Susu,Yogyakarta,Malam,2,2,1
+Es Teh,Yogyakarta,Malam,1,17,0
+Roti Bakar,Semarang,Sore,3,22,0
+Es Teh,Yogyakarta,Pagi,3,17,0
+Kentang Goreng,Magelang,Pagi,1,3,0
+Cappuccino,Yogyakarta,Pagi,2,3,1
+Kopi Susu,Semarang,Pagi,1,24,0
+Kopi Susu,Semarang,Siang,1,22,0
+Cappuccino,Yogyakarta,Pagi,1,9,1
+Es Teh,Magelang,Sore,5,21,1
+Kentang Goreng,Yogyakarta,Siang,5,12,1
+Americano,Semarang,Sore,3,3,1
+Kopi Susu,Magelang,Malam,2,23,0
+Kentang Goreng,Magelang,Malam,5,23,0
+Roti Bakar,Magelang,Siang,1,22,0
+Kentang Goreng,Yogyakarta,Sore,3,15,1
+Cappuccino,Magelang,Malam,5,2,1
+Roti Bakar,Yogyakarta,Sore,5,17,1
+Kopi Susu,Yogyakarta,Pagi,5,14,0
+Roti Bakar,Yogyakarta,Pagi,5,14,0
+Roti Bakar,Yogyakarta,Siang,1,8,0
+Kopi Susu,Yogyakarta,Siang,4,13,1
+Es Teh,Magelang,Pagi,3,19,0
+Americano,Magelang,Sore,4,11,1
+Kentang Goreng,Yogyakarta,Malam,2,15,1
+Kentang Goreng,Semarang,Malam,2,7,0
+Kentang Goreng,Semarang,Malam,2,6,1
+Kopi Susu,Semarang,Sore,2,24,0
+Es Teh,Yogyakarta,Siang,4,17,0
+Kopi Susu,Yogyakarta,Malam,2,5,1
+Kopi Susu,Yogyakarta,Malam,4,2,0
+Es Teh,Yogyakarta,Malam,3,22,0
+Americano,Semarang,Malam,4,16,0
+Roti Bakar,Yogyakarta,Pagi,4,8,0
+Kopi Susu,Magelang,Sore,1,22,0
+Es Teh,Semarang,Malam,1,8,1
+Cappuccino,Semarang,Siang,2,24,0
+Americano,Magelang,Sore,5,16,0
+Roti Bakar,Yogyakarta,Pagi,1,21,0
+Roti Bakar,Yogyakarta,Pagi,4,14,0
+Roti Bakar,Yogyakarta,Siang,1,5,1
+Kopi Susu,Magelang,Malam,2,24,0
+Cappuccino,Yogyakarta,Pagi,1,9,1
+Kentang Goreng,Semarang,Siang,3,8,0
+Cappuccino,Yogyakarta,Sore,1,9,1
+Roti Bakar,Magelang,Siang,1,3,1
+Es Teh,Magelang,Malam,4,9,1
+Kentang Goreng,Magelang,Malam,1,24,0
+Kopi Susu,Semarang,Malam,4,12,0
+Americano,Semarang,Pagi,5,12,0
+Kentang Goreng,Yogyakarta,Sore,1,19,1
+Kentang Goreng,Yogyakarta,Siang,3,10,0
+Kentang Goreng,Magelang,Siang,4,8,1
+Cappuccino,Yogyakarta,Sore,4,12,1
+Americano,Yogyakarta,Pagi,4,19,0
+Es Teh,Semarang,Siang,4,20,0
+Cappuccino,Yogyakarta,Sore,4,22,0
+Kopi Susu,Semarang,Sore,4,17,1
+Es Teh,Magelang,Pagi,5,23,0
+Roti Bakar,Yogyakarta,Sore,3,19,0
+Kentang Goreng,Yogyakarta,Malam,3,9,1
+Cappuccino,Magelang,Pagi,2,4,1
+Kopi Susu,Semarang,Siang,1,24,0
+Kentang Goreng,Yogyakarta,Siang,5,5,0
+Kentang Goreng,Yogyakarta,Sore,3,3,1
+Es Teh,Yogyakarta,Malam,5,3,1
+Roti Bakar,Magelang,Pagi,4,8,1
+Cappuccino,Yogyakarta,Sore,3,4,1
+Kopi Susu,Semarang,Pagi,1,14,1
+Kentang Goreng,Magelang,Sore,2,5,1
+Americano,Yogyakarta,Sore,2,21,0
+Americano,Yogyakarta,Pagi,2,13,1
+Kentang Goreng,Yogyakarta,Malam,5,24,0
+Americano,Yogyakarta,Pagi,1,3,1
+Cappuccino,Magelang,Pagi,2,19,0
+Es Teh,Yogyakarta,Sore,4,4,1
+Kopi Susu,Magelang,Pagi,3,9,1
+Kopi Susu,Magelang,Siang,5,6,1
+Cappuccino,Yogyakarta,Pagi,4,10,1
+Kopi Susu,Magelang,Siang,2,6,1
+Cappuccino,Magelang,Malam,5,12,1
+Americano,Magelang,Sore,2,23,0
+Cappuccino,Semarang,Pagi,2,9,1
+Cappuccino,Semarang,Sore,5,18,1
+Roti Bakar,Yogyakarta,Malam,5,20,0
+Cappuccino,Semarang,Siang,2,23,0
+Kopi Susu,Yogyakarta,Sore,4,12,0
+Kopi Susu,Yogyakarta,Siang,5,24,0
+Kentang Goreng,Yogyakarta,Sore,1,4,1
+Kentang Goreng,Magelang,Malam,2,12,1
+Americano,Magelang,Sore,5,15,1
+Roti Bakar,Yogyakarta,Pagi,4,16,0
+Es Teh,Semarang,Sore,1,8,1
+Roti Bakar,Yogyakarta,Pagi,4,13,1
+Kopi Susu,Magelang,Sore,5,2,1
+Kopi Susu,Semarang,Siang,4,18,0
+Es Teh,Yogyakarta,Sore,3,9,0
+Es Teh,Yogyakarta,Pagi,4,11,0
+Es Teh,Magelang,Malam,3,2,1
+Es Teh,Yogyakarta,Pagi,3,11,0
+Cappuccino,Magelang,Siang,5,20,0
+Kopi Susu,Magelang,Sore,1,12,0
+Kentang Goreng,Magelang,Siang,5,10,0
+Kentang Goreng,Yogyakarta,Siang,5,16,0
+Americano,Yogyakarta,Sore,1,8,1
+Cappuccino,Semarang,Pagi,1,18,0
+Cappuccino,Magelang,Pagi,4,23,0
+Americano,Semarang,Pagi,1,20,1
+Cappuccino,Magelang,Sore,3,5,1
+Americano,Magelang,Pagi,3,2,1
+Kentang Goreng,Yogyakarta,Pagi,1,9,1
+Roti Bakar,Semarang,Sore,4,7,1
+Americano,Yogyakarta,Malam,4,10,1
+Roti Bakar,Semarang,Sore,4,11,0
+Roti Bakar,Magelang,Malam,5,9,1
+Kentang Goreng,Semarang,Malam,1,19,0
+Americano,Yogyakarta,Malam,1,2,1
+Cappuccino,Semarang,Sore,3,11,0
+Roti Bakar,Yogyakarta,Pagi,2,12,0
+Kentang Goreng,Semarang,Malam,4,11,1
+Kentang Goreng,Semarang,Malam,1,19,0
+Cappuccino,Yogyakarta,Malam,3,22,0
+Kopi Susu,Yogyakarta,Malam,4,17,1
+Cappuccino,Magelang,Pagi,4,7,0
+Cappuccino,Semarang,Sore,3,16,0
+Cappuccino,Magelang,Pagi,5,22,0
+Es Teh,Semarang,Malam,4,15,0
+Cappuccino,Magelang,Siang,1,14,1
+Cappuccino,Semarang,Malam,5,3,1
+Roti Bakar,Yogyakarta,Malam,3,12,1
+Es Teh,Magelang,Pagi,4,18,0
+Cappuccino,Yogyakarta,Siang,5,21,0
+Kopi Susu,Magelang,Sore,3,14,0
+Americano,Magelang,Siang,1,7,1
+Americano,Yogyakarta,Siang,5,7,1
+Kentang Goreng,Semarang,Siang,3,11,0
+Roti Bakar,Semarang,Siang,3,10,1
+Cappuccino,Magelang,Malam,4,19,0
+Americano,Semarang,Sore,5,21,1
+Cappuccino,Magelang,Siang,2,4,0
+Roti Bakar,Magelang,Siang,5,5,1
+Cappuccino,Yogyakarta,Siang,4,7,0
+Kentang Goreng,Magelang,Sore,4,11,1
+Cappuccino,Semarang,Sore,4,5,1
+Roti Bakar,Semarang,Sore,2,11,0
+Americano,Magelang,Siang,3,16,0
+Cappuccino,Semarang,Siang,1,9,0
+Cappuccino,Magelang,Siang,3,3,1
+Kopi Susu,Yogyakarta,Pagi,3,4,1
+Americano,Yogyakarta,Siang,3,9,1
+Roti Bakar,Magelang,Sore,1,16,0
+Cappuccino,Yogyakarta,Malam,2,20,0
+Kopi Susu,Yogyakarta,Sore,5,20,1
+Kentang Goreng,Magelang,Pagi,1,21,0
+Es Teh,Magelang,Siang,3,3,1
+Cappuccino,Magelang,Malam,2,24,1
+Americano,Magelang,Sore,5,4,1
+Americano,Yogyakarta,Sore,3,22,0
+Roti Bakar,Magelang,Malam,3,5,1
+Cappuccino,Yogyakarta,Siang,4,18,0
+Roti Bakar,Semarang,Sore,1,17,0
+Cappuccino,Magelang,Siang,5,24,0
+Americano,Semarang,Malam,2,20,0
+Kopi Susu,Semarang,Siang,3,19,0
+Americano,Yogyakarta,Pagi,5,21,0
+Kentang Goreng,Semarang,Sore,1,7,0
+Americano,Yogyakarta,Pagi,2,15,0
+Kentang Goreng,Yogyakarta,Pagi,5,20,0
+Kopi Susu,Yogyakarta,Pagi,2,13,0
+Kentang Goreng,Semarang,Malam,4,4,1
+Cappuccino,Yogyakarta,Sore,2,17,1
+Roti Bakar,Semarang,Sore,4,6,1
+Kentang Goreng,Yogyakarta,Siang,3,17,0
+Es Teh,Magelang,Sore,5,15,0
+Es Teh,Yogyakarta,Malam,4,12,1
+Es Teh,Yogyakarta,Siang,5,2,1
+Es Teh,Yogyakarta,Pagi,2,8,1
+Americano,Yogyakarta,Pagi,2,20,0
+Kentang Goreng,Yogyakarta,Pagi,2,7,1
+Cappuccino,Magelang,Pagi,4,8,0
+Es Teh,Semarang,Malam,1,23,1
+Roti Bakar,Semarang,Sore,5,22,0
+Kopi Susu,Semarang,Pagi,2,16,0
+Roti Bakar,Magelang,Malam,5,12,1
+Es Teh,Magelang,Malam,1,4,1
+Kentang Goreng,Magelang,Pagi,3,14,0
+Kopi Susu,Yogyakarta,Malam,2,9,0
+Roti Bakar,Semarang,Pagi,1,7,1
+Roti Bakar,Semarang,Sore,1,6,0
+Americano,Semarang,Siang,4,11,0
+Roti Bakar,Magelang,Pagi,2,6,1
+Americano,Semarang,Pagi,1,9,1
+Kentang Goreng,Magelang,Sore,5,6,1
+Kopi Susu,Semarang,Sore,4,5,1
+Kentang Goreng,Semarang,Malam,2,17,0
+Kentang Goreng,Magelang,Pagi,1,4,0
+Es Teh,Semarang,Sore,5,10,1
+Roti Bakar,Yogyakarta,Malam,1,2,1
+Roti Bakar,Magelang,Sore,1,24,0
+Es Teh,Yogyakarta,Sore,5,11,0
+Cappuccino,Magelang,Malam,5,16,0
+Kentang Goreng,Yogyakarta,Pagi,5,5,1
+Kopi Susu,Yogyakarta,Sore,1,14,1
+Kentang Goreng,Yogyakarta,Pagi,4,13,0
+Kopi Susu,Semarang,Malam,3,2,1
+Roti Bakar,Yogyakarta,Malam,5,11,1
+Kopi Susu,Yogyakarta,Pagi,5,11,0
+Americano,Yogyakarta,Siang,1,2,1
+Americano,Semarang,Sore,4,13,0
+Roti Bakar,Yogyakarta,Malam,5,6,0
+Americano,Magelang,Malam,4,8,1
+Kopi Susu,Yogyakarta,Pagi,3,22,0
+Kopi Susu,Semarang,Pagi,4,8,1
+Americano,Semarang,Siang,4,10,1
+Cappuccino,Semarang,Sore,2,7,1
+Es Teh,Magelang,Siang,2,6,1
+Kentang Goreng,Yogyakarta,Malam,3,16,0
+Es Teh,Magelang,Malam,2,2,1
+Roti Bakar,Semarang,Sore,3,23,0
+Cappuccino,Yogyakarta,Siang,5,16,1
+Americano,Magelang,Malam,1,15,0
+Kopi Susu,Magelang,Malam,3,16,0
+Americano,Semarang,Pagi,2,13,1
+Kentang Goreng,Semarang,Malam,4,20,0
+Cappuccino,Magelang,Sore,1,2,1
+Roti Bakar,Magelang,Pagi,3,24,0
+Es Teh,Semarang,Sore,5,19,0
+Cappuccino,Semarang,Pagi,3,4,0
+Kentang Goreng,Yogyakarta,Malam,1,15,0
+Americano,Yogyakarta,Siang,3,19,0
+Americano,Semarang,Pagi,2,22,0
+Es Teh,Magelang,Sore,5,4,1
+Cappuccino,Semarang,Sore,2,20,0
+Americano,Semarang,Pagi,2,18,0
+Kentang Goreng,Semarang,Sore,1,7,1
+Es Teh,Magelang,Pagi,3,10,0
+Kopi Susu,Magelang,Malam,3,12,0
+Americano,Semarang,Malam,1,8,1
+Es Teh,Yogyakarta,Siang,4,22,0
+Kentang Goreng,Semarang,Pagi,3,8,1
+Americano,Yogyakarta,Siang,4,4,1
+Americano,Magelang,Malam,1,11,0
+Roti Bakar,Semarang,Malam,2,6,1
+Roti Bakar,Magelang,Siang,1,20,1
+Kopi Susu,Magelang,Sore,3,15,0
+Americano,Semarang,Malam,4,4,1
+Cappuccino,Yogyakarta,Malam,3,24,0
+Kopi Susu,Semarang,Pagi,1,10,1
+Kentang Goreng,Yogyakarta,Siang,4,16,0
+Kentang Goreng,Semarang,Pagi,3,13,0
+Cappuccino,Magelang,Siang,5,18,0
+Kopi Susu,Magelang,Pagi,2,13,1
+Americano,Yogyakarta,Malam,3,12,0
+Cappuccino,Yogyakarta,Pagi,5,3,1
+Americano,Magelang,Pagi,1,22,0
+Kopi Susu,Yogyakarta,Malam,2,5,1
+Kopi Susu,Semarang,Malam,3,15,1
+Es Teh,Yogyakarta,Siang,5,22,0
+Kentang Goreng,Yogyakarta,Sore,4,23,0
+Es Teh,Yogyakarta,Sore,2,10,1
+Roti Bakar,Semarang,Malam,1,4,1
+Roti Bakar,Yogyakarta,Malam,5,23,0
+Kopi Susu,Semarang,Malam,5,16,1
+Americano,Semarang,Sore,1,23,0
+Kopi Susu,Semarang,Malam,2,8,1
+Cappuccino,Yogyakarta,Sore,5,16,1
+Americano,Semarang,Siang,4,21,0
+Kentang Goreng,Magelang,Sore,2,15,1
+Kopi Susu,Semarang,Pagi,3,20,0
+Roti Bakar,Yogyakarta,Sore,1,20,0
+Kentang Goreng,Yogyakarta,Pagi,1,6,1
+Roti Bakar,Magelang,Siang,5,5,1
+Kentang Goreng,Semarang,Malam,5,22,0
+Cappuccino,Yogyakarta,Siang,1,7,0
+Es Teh,Magelang,Pagi,2,19,0
+Americano,Semarang,Siang,5,13,0
+Es Teh,Semarang,Malam,4,11,1
+Es Teh,Magelang,Pagi,2,16,0
+Americano,Semarang,Siang,3,5,0
+Americano,Semarang,Siang,3,3,0
+Cappuccino,Yogyakarta,Siang,3,24,0
+Kopi Susu,Yogyakarta,Pagi,5,12,1
+Americano,Semarang,Sore,1,4,1
+Kopi Susu,Yogyakarta,Sore,2,5,1
+Americano,Yogyakarta,Siang,3,2,1
+Kopi Susu,Magelang,Malam,4,9,1
+Cappuccino,Semarang,Pagi,4,9,1
+Americano,Semarang,Pagi,3,12,1
+Kentang Goreng,Magelang,Sore,1,19,1
+Es Teh,Magelang,Pagi,2,11,0
+Americano,Magelang,Siang,3,15,0
+Roti Bakar,Semarang,Sore,1,22,0
+Es Teh,Semarang,Malam,4,23,0
+Cappuccino,Magelang,Pagi,4,12,1
+Cappuccino,Semarang,Pagi,4,15,0
+Es Teh,Semarang,Sore,3,24,0
+Cappuccino,Semarang,Sore,5,18,0
+Cappuccino,Magelang,Malam,5,9,0
+Cappuccino,Semarang,Pagi,2,16,0
+Kentang Goreng,Magelang,Sore,4,19,1
+Cappuccino,Magelang,Sore,2,7,1
+Cappuccino,Semarang,Sore,1,7,0
+Es Teh,Magelang,Sore,2,23,0
+Roti Bakar,Magelang,Malam,5,22,0
+Roti Bakar,Magelang,Sore,5,13,0
+Kentang Goreng,Yogyakarta,Pagi,3,19,1
+Kopi Susu,Yogyakarta,Pagi,5,14,0
+Roti Bakar,Semarang,Pagi,4,3,1
+Roti Bakar,Semarang,Pagi,1,14,0
+Kopi Susu,Semarang,Sore,5,12,1
+Americano,Semarang,Pagi,1,24,0
+Roti Bakar,Magelang,Sore,4,3,1
+Americano,Semarang,Sore,5,14,0
+Kopi Susu,Yogyakarta,Siang,4,14,0
+Americano,Yogyakarta,Sore,2,22,0
+Kentang Goreng,Semarang,Siang,4,22,0
+Kentang Goreng,Semarang,Malam,3,20,0
+Roti Bakar,Magelang,Sore,5,8,1
+Americano,Magelang,Pagi,1,11,1
+Kentang Goreng,Semarang,Sore,2,8,0
+Kopi Susu,Magelang,Sore,1,22,0
+Cappuccino,Yogyakarta,Pagi,5,11,0
+Es Teh,Magelang,Pagi,5,11,1
+Cappuccino,Semarang,Sore,2,13,0
+Kentang Goreng,Semarang,Malam,1,15,0
+Kentang Goreng,Semarang,Malam,1,23,0
+Roti Bakar,Yogyakarta,Malam,2,18,0
+Kentang Goreng,Semarang,Siang,4,4,1
+Cappuccino,Magelang,Pagi,3,20,0
+Cappuccino,Magelang,Siang,1,12,0
+Cappuccino,Yogyakarta,Pagi,5,24,0
+Es Teh,Yogyakarta,Pagi,5,10,1
+Cappuccino,Yogyakarta,Sore,1,21,0
+Es Teh,Semarang,Pagi,4,8,1
+Cappuccino,Semarang,Pagi,1,4,1
+Cappuccino,Yogyakarta,Malam,2,22,1
+Kentang Goreng,Yogyakarta,Siang,2,22,0
+Americano,Yogyakarta,Pagi,4,15,0
+Cappuccino,Magelang,Pagi,4,23,0
+Kentang Goreng,Semarang,Pagi,4,3,1
+Roti Bakar,Magelang,Pagi,2,18,1
+Roti Bakar,Magelang,Pagi,3,13,1
+Cappuccino,Semarang,Sore,5,10,1
+Kopi Susu,Yogyakarta,Pagi,3,19,1
+Kopi Susu,Yogyakarta,Siang,4,12,1
+Americano,Yogyakarta,Sore,3,17,0
+Americano,Magelang,Pagi,2,13,0
+Cappuccino,Magelang,Siang,2,22,0
+Kopi Susu,Semarang,Pagi,2,12,1
+Americano,Semarang,Siang,4,9,0
+Es Teh,Magelang,Malam,1,4,0
+Americano,Yogyakarta,Malam,4,11,0
+Kopi Susu,Magelang,Pagi,4,19,0
+Cappuccino,Yogyakarta,Malam,5,5,1
+Cappuccino,Magelang,Pagi,4,9,1
+Es Teh,Magelang,Sore,1,22,0
+Americano,Magelang,Malam,3,4,1
+Kentang Goreng,Yogyakarta,Sore,5,4,1
+Kopi Susu,Yogyakarta,Sore,3,7,1
+Kopi Susu,Yogyakarta,Siang,3,5,1
+Americano,Yogyakarta,Siang,1,17,0
+Es Teh,Yogyakarta,Siang,3,17,0
+Kentang Goreng,Yogyakarta,Pagi,4,3,1
+Roti Bakar,Magelang,Malam,2,11,1
+Kopi Susu,Semarang,Siang,3,11,1
+Roti Bakar,Semarang,Pagi,3,4,1
+Kopi Susu,Yogyakarta,Siang,3,16,0
+Cappuccino,Yogyakarta,Sore,1,3,1
+Es Teh,Yogyakarta,Pagi,5,21,0
+Kentang Goreng,Magelang,Pagi,4,15,0
+Cappuccino,Magelang,Pagi,4,12,0
+Americano,Yogyakarta,Siang,3,12,0
+Es Teh,Magelang,Sore,3,18,1
+Kentang Goreng,Semarang,Siang,1,7,1
+Kopi Susu,Magelang,Malam,4,24,0
+Es Teh,Magelang,Siang,3,19,0
+Cappuccino,Semarang,Pagi,4,14,1
+Es Teh,Semarang,Siang,1,4,1
+Es Teh,Yogyakarta,Sore,3,14,1
+Es Teh,Magelang,Pagi,3,11,1
+Roti Bakar,Magelang,Siang,5,21,0
+Cappuccino,Yogyakarta,Pagi,3,5,1
+Kopi Susu,Yogyakarta,Pagi,3,18,0
+Kopi Susu,Magelang,Siang,1,14,1
+Roti Bakar,Semarang,Sore,5,13,0
+Es Teh,Yogyakarta,Malam,1,6,1
+Kopi Susu,Semarang,Sore,3,3,1
+Kentang Goreng,Yogyakarta,Malam,2,19,0
+Es Teh,Yogyakarta,Sore,5,12,1
+Americano,Semarang,Siang,5,2,1
+Kopi Susu,Magelang,Pagi,2,14,0
+Kopi Susu,Magelang,Malam,5,10,1
+Kopi Susu,Magelang,Siang,5,22,0
+Cappuccino,Yogyakarta,Siang,5,3,1
+Kentang Goreng,Magelang,Siang,1,4,1
+Kopi Susu,Semarang,Malam,4,11,0
+Kopi Susu,Semarang,Pagi,5,12,0
+Es Teh,Semarang,Pagi,1,16,0
+Kentang Goreng,Semarang,Malam,2,16,0
+Kentang Goreng,Yogyakarta,Malam,4,9,0
+Kopi Susu,Semarang,Pagi,4,8,0
+Kopi Susu,Yogyakarta,Malam,1,20,1
+Americano,Semarang,Sore,2,24,0
+Americano,Semarang,Malam,2,2,1
+Americano,Semarang,Pagi,1,12,0
+Es Teh,Semarang,Pagi,5,17,0
+Roti Bakar,Magelang,Siang,4,22,0
+Cappuccino,Magelang,Pagi,4,7,1
+Cappuccino,Magelang,Siang,1,5,1
+Roti Bakar,Yogyakarta,Sore,3,7,1
+Americano,Magelang,Sore,1,15,0
+Kentang Goreng,Magelang,Malam,1,14,1
+Kopi Susu,Magelang,Siang,1,6,1
+Es Teh,Magelang,Pagi,3,19,0
+Cappuccino,Yogyakarta,Sore,2,19,1
+Roti Bakar,Semarang,Siang,1,7,1
+Cappuccino,Semarang,Sore,4,10,0
+Kopi Susu,Yogyakarta,Pagi,2,7,1
+Kentang Goreng,Semarang,Pagi,1,11,0
+Kopi Susu,Magelang,Sore,3,2,1
+Kopi Susu,Magelang,Sore,5,11,1
+Es Teh,Magelang,Siang,3,15,0
+Americano,Magelang,Malam,5,21,0
+Es Teh,Yogyakarta,Pagi,3,19,1
+Roti Bakar,Magelang,Malam,4,16,0
+Roti Bakar,Yogyakarta,Sore,1,17,0
+Kopi Susu,Magelang,Malam,2,20,1
+Roti Bakar,Yogyakarta,Sore,2,18,0
+Kentang Goreng,Yogyakarta,Siang,4,16,0
+Cappuccino,Semarang,Pagi,3,19,0
+Kopi Susu,Magelang,Pagi,2,10,1
+Kopi Susu,Yogyakarta,Sore,4,7,0
+Kentang Goreng,Yogyakarta,Siang,5,2,0
+Americano,Semarang,Siang,4,9,0
+Kopi Susu,Semarang,Pagi,5,23,1
+Cappuccino,Yogyakarta,Pagi,2,4,1
+Roti Bakar,Semarang,Siang,4,23,0
+Cappuccino,Magelang,Siang,1,7,1
+Roti Bakar,Yogyakarta,Pagi,5,3,1
+Americano,Yogyakarta,Pagi,3,11,1
+Kopi Susu,Magelang,Siang,2,15,0
+Kopi Susu,Semarang,Sore,5,2,1
+Roti Bakar,Magelang,Pagi,2,6,1
+Kopi Susu,Semarang,Sore,3,14,0
+Kopi Susu,Semarang,Sore,4,18,1
+Americano,Semarang,Pagi,2,24,0
+Kopi Susu,Magelang,Malam,2,4,1
+Cappuccino,Semarang,Sore,3,20,0
+Kopi Susu,Semarang,Pagi,3,22,0
+Roti Bakar,Magelang,Pagi,1,5,1
+Americano,Yogyakarta,Pagi,1,24,0
+Es Teh,Yogyakarta,Pagi,2,2,1
+Kopi Susu,Magelang,Sore,4,18,0
+Kentang Goreng,Semarang,Sore,3,21,0
+Kopi Susu,Semarang,Siang,2,23,1
+Roti Bakar,Semarang,Pagi,4,14,0
+Roti Bakar,Magelang,Sore,5,11,0
+Kopi Susu,Magelang,Siang,3,20,0
+Americano,Magelang,Pagi,1,5,1
+Kopi Susu,Semarang,Malam,2,12,0
+Roti Bakar,Semarang,Sore,5,5,1
+Es Teh,Magelang,Sore,5,18,1
+Kentang Goreng,Semarang,Malam,5,7,1
+Es Teh,Yogyakarta,Siang,1,9,1
+Cappuccino,Yogyakarta,Sore,2,2,1
+Roti Bakar,Semarang,Sore,4,17,1
+Es Teh,Magelang,Pagi,3,23,0
+Es Teh,Semarang,Sore,3,11,1
+Roti Bakar,Yogyakarta,Malam,4,18,0
+Americano,Semarang,Pagi,2,22,0
+Kopi Susu,Yogyakarta,Siang,4,13,1
+Cappuccino,Yogyakarta,Pagi,1,10,1
+Cappuccino,Semarang,Siang,2,5,1
+Americano,Magelang,Sore,5,14,1
+Kentang Goreng,Magelang,Sore,3,21,0
+Roti Bakar,Yogyakarta,Pagi,3,3,1
+Americano,Magelang,Siang,5,16,0
+Es Teh,Semarang,Pagi,3,12,0
+Kentang Goreng,Yogyakarta,Siang,3,17,1
+Cappuccino,Yogyakarta,Sore,1,17,0
+Kentang Goreng,Magelang,Sore,2,19,0
+Es Teh,Semarang,Sore,3,24,0
+Kentang Goreng,Magelang,Sore,4,24,1
+Cappuccino,Yogyakarta,Pagi,1,15,1
+Kentang Goreng,Semarang,Siang,1,20,0
+Kentang Goreng,Magelang,Sore,5,24,0
+Americano,Yogyakarta,Malam,4,21,1
+Kopi Susu,Semarang,Siang,4,11,1
+Roti Bakar,Yogyakarta,Malam,3,11,1
+Es Teh,Yogyakarta,Malam,2,14,0
+Kentang Goreng,Magelang,Sore,2,24,0
+Kentang Goreng,Magelang,Pagi,2,2,0
+Kopi Susu,Yogyakarta,Siang,1,15,1
+Americano,Semarang,Sore,3,6,1
+Americano,Magelang,Malam,1,17,0
+Kentang Goreng,Yogyakarta,Malam,2,21,0
+Kentang Goreng,Semarang,Siang,1,22,0
+Kopi Susu,Yogyakarta,Malam,2,15,0
+Cappuccino,Magelang,Pagi,1,11,1
+Kentang Goreng,Semarang,Sore,4,17,1
+Americano,Semarang,Malam,5,3,1
+Kentang Goreng,Semarang,Sore,1,2,1
+Roti Bakar,Semarang,Malam,2,16,1
+Cappuccino,Magelang,Malam,2,17,0
+Cappuccino,Semarang,Siang,1,18,0
+Es Teh,Semarang,Pagi,5,16,0
+Kentang Goreng,Semarang,Sore,1,5,1
+Americano,Yogyakarta,Pagi,3,20,0
+Roti Bakar,Semarang,Siang,1,18,0
+Kopi Susu,Yogyakarta,Malam,2,17,0
+Es Teh,Semarang,Malam,1,23,0
+Cappuccino,Yogyakarta,Pagi,3,5,1
+Cappuccino,Magelang,Sore,1,18,0
+Roti Bakar,Semarang,Siang,2,20,0
+Kopi Susu,Magelang,Pagi,4,22,0
+Americano,Yogyakarta,Pagi,5,23,0
+Americano,Magelang,Sore,3,16,0
+Es Teh,Yogyakarta,Sore,3,15,0
+Kopi Susu,Semarang,Malam,4,10,1
+Roti Bakar,Yogyakarta,Sore,5,14,0
+Roti Bakar,Semarang,Malam,5,24,0
+Cappuccino,Yogyakarta,Sore,5,24,0
+Kentang Goreng,Magelang,Siang,3,17,0
+Kopi Susu,Semarang,Pagi,1,20,1
+Kentang Goreng,Yogyakarta,Malam,4,13,0
+Es Teh,Semarang,Sore,2,20,1
+Kopi Susu,Magelang,Sore,3,15,0
+Es Teh,Semarang,Sore,1,17,1
+Roti Bakar,Yogyakarta,Pagi,3,11,1
+Kentang Goreng,Magelang,Siang,3,21,1
+Cappuccino,Yogyakarta,Sore,2,20,0
+Roti Bakar,Semarang,Pagi,2,21,0
+Cappuccino,Yogyakarta,Sore,5,20,0
+Es Teh,Magelang,Malam,4,20,0
+Kopi Susu,Yogyakarta,Sore,4,17,0
+Roti Bakar,Yogyakarta,Pagi,5,21,0
+Kopi Susu,Semarang,Siang,1,15,0
+Americano,Semarang,Siang,1,21,1
+Kopi Susu,Semarang,Pagi,2,13,1
+Kopi Susu,Yogyakarta,Siang,2,6,1
+Es Teh,Semarang,Siang,1,22,0
+Es Teh,Semarang,Siang,3,5,1
+Kopi Susu,Semarang,Siang,2,13,1
+Kopi Susu,Magelang,Sore,2,16,0
+Americano,Magelang,Malam,3,6,0
+Cappuccino,Magelang,Pagi,3,14,1
+Es Teh,Magelang,Malam,2,10,1
+Americano,Magelang,Siang,3,19,1
+Kentang Goreng,Semarang,Siang,3,4,1
+Cappuccino,Yogyakarta,Pagi,1,13,0
+Roti Bakar,Yogyakarta,Malam,1,2,1
+Es Teh,Semarang,Pagi,3,5,1
+Kentang Goreng,Yogyakarta,Malam,3,15,0
+Kopi Susu,Semarang,Siang,1,12,0
+Kopi Susu,Semarang,Malam,1,11,0
+Es Teh,Magelang,Malam,1,18,0
+Kopi Susu,Yogyakarta,Sore,2,19,0
+Americano,Magelang,Siang,3,23,0
+Kentang Goreng,Magelang,Siang,3,10,1
+Es Teh,Semarang,Sore,3,14,0
+Roti Bakar,Semarang,Pagi,3,13,0
+Cappuccino,Semarang,Sore,4,5,1
+Kopi Susu,Yogyakarta,Malam,2,9,1
+Cappuccino,Yogyakarta,Pagi,3,17,0
+Kentang Goreng,Semarang,Malam,1,2,1
+Kopi Susu,Yogyakarta,Sore,3,16,1
+Cappuccino,Yogyakarta,Siang,4,16,0
+Es Teh,Semarang,Sore,2,19,0
+Es Teh,Yogyakarta,Siang,5,12,0
+Kopi Susu,Semarang,Pagi,5,20,0
+Kopi Susu,Magelang,Sore,3,24,0
+Kentang Goreng,Semarang,Siang,1,17,0
+Americano,Magelang,Siang,1,13,0
+Roti Bakar,Yogyakarta,Siang,2,24,0
+Kentang Goreng,Semarang,Sore,1,21,0
+Americano,Yogyakarta,Siang,1,4,0
+Es Teh,Semarang,Sore,3,24,1
+Kopi Susu,Magelang,Sore,1,18,0
+Kentang Goreng,Magelang,Sore,3,12,0
+Roti Bakar,Semarang,Siang,4,15,1
+Es Teh,Semarang,Malam,2,9,1
+Americano,Yogyakarta,Pagi,2,21,0
+Roti Bakar,Magelang,Siang,2,3,1
+Kopi Susu,Yogyakarta,Malam,5,2,1
+Americano,Magelang,Sore,1,15,1
+Cappuccino,Magelang,Siang,2,16,1
+Roti Bakar,Yogyakarta,Sore,1,7,1
+Americano,Magelang,Pagi,2,6,1
+Kopi Susu,Semarang,Siang,2,2,1
+Americano,Yogyakarta,Sore,4,11,0
+Americano,Magelang,Sore,1,10,1
+Kopi Susu,Yogyakarta,Malam,3,11,0
+Cappuccino,Semarang,Malam,4,11,1
+Kopi Susu,Magelang,Pagi,3,19,0
+Roti Bakar,Yogyakarta,Malam,1,15,0
+Kopi Susu,Yogyakarta,Malam,5,20,0
+Kentang Goreng,Magelang,Sore,1,19,0
+Kentang Goreng,Semarang,Malam,5,12,0
+Es Teh,Yogyakarta,Pagi,3,19,0
+Americano,Semarang,Malam,2,24,0
+Americano,Magelang,Malam,5,5,1
+Es Teh,Magelang,Siang,4,6,1
+Americano,Semarang,Pagi,2,14,0
+Kentang Goreng,Yogyakarta,Malam,2,18,0
+Roti Bakar,Yogyakarta,Pagi,5,6,1
+Americano,Yogyakarta,Pagi,2,14,0
+Roti Bakar,Semarang,Malam,1,6,1
+Es Teh,Semarang,Pagi,4,22,0
+Americano,Magelang,Siang,3,7,1
+Kentang Goreng,Magelang,Siang,4,11,1
+Kentang Goreng,Yogyakarta,Sore,1,22,0
+Es Teh,Yogyakarta,Sore,2,10,0
+Cappuccino,Yogyakarta,Malam,3,6,0
+Roti Bakar,Magelang,Sore,5,23,0
+Roti Bakar,Yogyakarta,Malam,5,22,0
+Americano,Magelang,Malam,1,9,1
+Americano,Yogyakarta,Siang,4,8,1
+Es Teh,Yogyakarta,Sore,4,24,0
+Kopi Susu,Magelang,Siang,4,17,0
+Kopi Susu,Yogyakarta,Siang,5,8,1
+Kentang Goreng,Semarang,Pagi,5,22,0
+Roti Bakar,Yogyakarta,Siang,5,5,1
+Kentang Goreng,Magelang,Siang,4,24,0
+Roti Bakar,Semarang,Pagi,3,18,0
+Kentang Goreng,Yogyakarta,Malam,4,11,0
+Kentang Goreng,Magelang,Malam,2,9,1
+Americano,Yogyakarta,Malam,4,19,0
+Americano,Magelang,Pagi,2,11,1
+Kopi Susu,Yogyakarta,Siang,3,17,0
+Es Teh,Yogyakarta,Siang,3,13,0
+Es Teh,Yogyakarta,Sore,2,8,1
+Es Teh,Magelang,Malam,3,10,0
+Es Teh,Magelang,Pagi,4,19,0
+Kentang Goreng,Yogyakarta,Sore,2,11,1
+Kentang Goreng,Semarang,Malam,3,23,0
+Es Teh,Semarang,Sore,2,9,1
+Americano,Yogyakarta,Siang,1,5,0
+Kentang Goreng,Magelang,Pagi,3,16,0
+Kopi Susu,Semarang,Sore,3,23,0
+Americano,Magelang,Pagi,5,2,1
+Kopi Susu,Semarang,Malam,5,2,1
+Kopi Susu,Semarang,Siang,3,4,1
+Es Teh,Yogyakarta,Pagi,5,17,1
+Americano,Yogyakarta,Siang,4,6,0
+Kopi Susu,Yogyakarta,Malam,4,15,1
+Kopi Susu,Semarang,Malam,3,7,1
+Cappuccino,Yogyakarta,Siang,3,2,1
+Kopi Susu,Yogyakarta,Malam,3,14,0
+Kopi Susu,Semarang,Pagi,2,19,0
+Kopi Susu,Semarang,Siang,2,10,1
+Cappuccino,Yogyakarta,Sore,5,13,1
+Roti Bakar,Magelang,Siang,1,17,0
+Kopi Susu,Magelang,Siang,1,14,1
+Kentang Goreng,Magelang,Malam,3,22,0
+Kopi Susu,Yogyakarta,Pagi,1,8,1
+Kopi Susu,Yogyakarta,Sore,3,13,1
+Americano,Magelang,Siang,1,7,1
+Es Teh,Yogyakarta,Malam,4,23,0
+Americano,Magelang,Sore,3,10,1
+Cappuccino,Yogyakarta,Sore,5,8,0
+Es Teh,Semarang,Pagi,4,16,0
+Americano,Magelang,Pagi,5,4,1
+Americano,Semarang,Malam,1,2,0
+Americano,Yogyakarta,Sore,2,14,0
+Es Teh,Semarang,Malam,5,17,0
+Roti Bakar,Yogyakarta,Sore,2,16,1
+Americano,Semarang,Siang,5,23,0
+Es Teh,Semarang,Malam,4,22,0
+Roti Bakar,Magelang,Malam,1,20,0
+Kentang Goreng,Yogyakarta,Malam,3,9,1
+Cappuccino,Yogyakarta,Siang,1,7,1
+Es Teh,Semarang,Pagi,5,9,0
+Kopi Susu,Semarang,Siang,2,7,0
+Americano,Semarang,Sore,4,6,0
+Kopi Susu,Semarang,Pagi,4,20,0
+Kopi Susu,Semarang,Malam,1,17,1
+Kopi Susu,Yogyakarta,Malam,5,18,0
+Cappuccino,Semarang,Sore,4,20,0
+Cappuccino,Magelang,Malam,1,8,0
+Cappuccino,Semarang,Pagi,3,24,0
+Roti Bakar,Semarang,Pagi,5,10,1
+Roti Bakar,Magelang,Pagi,1,9,1
+Cappuccino,Semarang,Sore,5,16,0
+Kopi Susu,Magelang,Malam,3,9,1
+Americano,Yogyakarta,Malam,3,8,0
+Cappuccino,Yogyakarta,Pagi,2,6,0
+Kentang Goreng,Yogyakarta,Malam,5,13,1
+Kopi Susu,Semarang,Siang,1,24,0
+Es Teh,Yogyakarta,Malam,5,20,0
+Kentang Goreng,Semarang,Sore,4,9,1
+Kopi Susu,Yogyakarta,Siang,3,7,0
+Cappuccino,Magelang,Malam,2,23,0
+Cappuccino,Magelang,Sore,4,5,0
+Kopi Susu,Semarang,Malam,4,19,0
+Es Teh,Yogyakarta,Siang,2,13,0
+Kentang Goreng,Magelang,Siang,3,24,0
+Kopi Susu,Semarang,Malam,4,16,1
+Kentang Goreng,Magelang,Pagi,1,15,0
+Es Teh,Magelang,Sore,3,8,1
+Kentang Goreng,Magelang,Sore,5,18,0
+Roti Bakar,Magelang,Pagi,5,20,1
+Es Teh,Magelang,Pagi,2,4,1
+Americano,Yogyakarta,Sore,1,19,1
+Kopi Susu,Semarang,Malam,1,2,1
+Kopi Susu,Yogyakarta,Malam,4,21,1
+Kopi Susu,Yogyakarta,Sore,1,11,1
+Cappuccino,Semarang,Siang,2,8,1
+Americano,Semarang,Malam,1,13,0
+Kentang Goreng,Yogyakarta,Malam,1,7,1
+Roti Bakar,Semarang,Pagi,1,21,0
+Cappuccino,Magelang,Siang,3,4,1
+Kentang Goreng,Yogyakarta,Siang,3,18,0
+Cappuccino,Yogyakarta,Sore,2,2,1
+Es Teh,Semarang,Malam,1,23,0
+Es Teh,Magelang,Sore,5,9,1
+Kopi Susu,Semarang,Malam,5,20,0
+Roti Bakar,Semarang,Malam,3,9,0
+Kentang Goreng,Yogyakarta,Malam,1,8,1
+Americano,Magelang,Malam,4,12,0
+Roti Bakar,Semarang,Siang,3,3,1
+Kopi Susu,Magelang,Sore,5,12,0
+Cappuccino,Magelang,Sore,4,17,0
+Roti Bakar,Semarang,Sore,2,11,0
+Cappuccino,Yogyakarta,Sore,1,2,0
+Es Teh,Yogyakarta,Malam,3,21,0
+Cappuccino,Yogyakarta,Pagi,2,5,1
+Kentang Goreng,Magelang,Malam,3,14,0
+Es Teh,Semarang,Siang,1,5,1
+Cappuccino,Magelang,Malam,2,6,1
+Roti Bakar,Magelang,Malam,4,2,1
+Es Teh,Semarang,Sore,4,15,0
+Kopi Susu,Magelang,Sore,2,24,0
+Kentang Goreng,Yogyakarta,Malam,4,22,0
+Kopi Susu,Yogyakarta,Malam,5,21,1
+Kopi Susu,Semarang,Siang,5,9,0
+Roti Bakar,Semarang,Sore,1,22,0
+Roti Bakar,Semarang,Pagi,1,4,1
+Kentang Goreng,Magelang,Siang,4,3,1
+Cappuccino,Semarang,Pagi,2,15,0
+Roti Bakar,Magelang,Siang,3,18,0
+Roti Bakar,Yogyakarta,Pagi,4,5,1
+Kentang Goreng,Magelang,Sore,2,9,0
+Kopi Susu,Yogyakarta,Pagi,3,6,0
+Cappuccino,Semarang,Sore,3,21,0
+Cappuccino,Yogyakarta,Sore,4,11,1
+Cappuccino,Magelang,Pagi,3,4,0
+Roti Bakar,Semarang,Sore,3,13,1
+Americano,Magelang,Siang,1,6,1
+Es Teh,Magelang,Siang,2,5,1
+Kentang Goreng,Yogyakarta,Malam,3,22,0
+Roti Bakar,Yogyakarta,Pagi,5,7,1
+Cappuccino,Semarang,Pagi,5,6,1
+Roti Bakar,Semarang,Malam,4,2,1
+Es Teh,Magelang,Malam,4,9,1
+Americano,Yogyakarta,Sore,4,8,1
+Roti Bakar,Semarang,Siang,3,22,0
+Kopi Susu,Semarang,Siang,2,24,0
+Cappuccino,Magelang,Pagi,1,18,1
+Roti Bakar,Semarang,Sore,1,16,0
+Roti Bakar,Semarang,Sore,3,17,0
+Americano,Semarang,Sore,3,11,1
+Cappuccino,Yogyakarta,Siang,2,3,1
+Es Teh,Yogyakarta,Malam,1,13,0
+Kopi Susu,Magelang,Sore,1,24,0
+Americano,Magelang,Sore,1,4,1
+Americano,Yogyakarta,Pagi,5,12,1
+Roti Bakar,Semarang,Pagi,2,24,0
+Kopi Susu,Yogyakarta,Siang,3,4,1
+Americano,Yogyakarta,Siang,5,12,1
+Kopi Susu,Yogyakarta,Pagi,2,17,0
+Americano,Semarang,Malam,1,21,0
+Es Teh,Magelang,Malam,2,19,1
+Roti Bakar,Yogyakarta,Sore,2,21,0
+Kentang Goreng,Magelang,Siang,2,2,1
+Es Teh,Yogyakarta,Siang,2,22,0
+Cappuccino,Semarang,Siang,4,20,0
+Kopi Susu,Semarang,Sore,5,17,0
+Es Teh,Yogyakarta,Pagi,3,12,1
+Es Teh,Yogyakarta,Malam,5,10,1
+Kentang Goreng,Yogyakarta,Siang,1,5,1
+Kentang Goreng,Yogyakarta,Siang,5,10,1
+Cappuccino,Magelang,Siang,5,22,0
+Kopi Susu,Yogyakarta,Pagi,3,5,1
+Es Teh,Yogyakarta,Sore,1,13,1
+Cappuccino,Semarang,Malam,5,12,0
+Roti Bakar,Magelang,Sore,2,2,1
+Kopi Susu,Semarang,Sore,2,18,1
+Es Teh,Yogyakarta,Siang,4,20,0
+Roti Bakar,Magelang,Malam,1,17,0
+Roti Bakar,Magelang,Malam,3,17,1
+Kentang Goreng,Magelang,Siang,1,10,0
+Es Teh,Yogyakarta,Pagi,5,18,0
+Americano,Yogyakarta,Malam,1,8,1
+Americano,Magelang,Pagi,3,13,1
+Roti Bakar,Yogyakarta,Sore,3,21,0
+Cappuccino,Magelang,Sore,2,23,0
+Kopi Susu,Semarang,Malam,1,13,0
+Americano,Magelang,Sore,5,6,0
+Kopi Susu,Semarang,Siang,1,22,0
+Cappuccino,Yogyakarta,Malam,3,21,1
+Kentang Goreng,Yogyakarta,Pagi,4,21,1
+Americano,Yogyakarta,Malam,4,22,0
+Roti Bakar,Semarang,Sore,5,11,0
+Cappuccino,Magelang,Siang,3,6,0
+Americano,Magelang,Siang,3,8,1
+Kopi Susu,Semarang,Sore,5,11,1
+Cappuccino,Semarang,Siang,4,14,1
+Americano,Semarang,Siang,2,18,0
+Kentang Goreng,Semarang,Pagi,3,4,1
+Roti Bakar,Magelang,Malam,2,8,1
+Americano,Semarang,Pagi,1,11,0
+Es Teh,Yogyakarta,Malam,1,20,0
+Es Teh,Magelang,Malam,2,19,0
+Kentang Goreng,Magelang,Siang,4,16,0
+Kopi Susu,Magelang,Sore,1,3,1
+Kentang Goreng,Yogyakarta,Malam,5,15,0
+Kopi Susu,Semarang,Pagi,3,24,0
+Roti Bakar,Semarang,Sore,3,17,0
+Kopi Susu,Magelang,Malam,4,3,1
+Cappuccino,Yogyakarta,Malam,1,16,1
+Kopi Susu,Yogyakarta,Siang,5,11,1
+Es Teh,Yogyakarta,Malam,1,7,1
+Cappuccino,Magelang,Malam,1,13,0
+Cappuccino,Semarang,Malam,1,21,0
+Kentang Goreng,Magelang,Sore,2,6,0
+Roti Bakar,Yogyakarta,Pagi,3,7,1
+Kentang Goreng,Semarang,Pagi,4,21,0
+Cappuccino,Semarang,Sore,5,18,1
+Cappuccino,Magelang,Malam,4,19,1
+Kentang Goreng,Semarang,Sore,3,4,1
+Kopi Susu,Magelang,Sore,1,4,1
+Kopi Susu,Yogyakarta,Sore,1,13,1
+Es Teh,Magelang,Siang,1,2,1
+Kentang Goreng,Semarang,Malam,3,6,1
+Es Teh,Yogyakarta,Pagi,3,20,0
+Roti Bakar,Yogyakarta,Sore,3,14,0
+Cappuccino,Yogyakarta,Malam,2,5,1
+Americano,Yogyakarta,Malam,5,8,0
+Kopi Susu,Magelang,Siang,1,11,1
+Roti Bakar,Semarang,Siang,4,22,0
+Kopi Susu,Yogyakarta,Sore,3,19,0
+Kopi Susu,Magelang,Malam,2,8,1
+Kopi Susu,Semarang,Sore,5,7,1
+Roti Bakar,Yogyakarta,Sore,3,13,1
+Cappuccino,Semarang,Siang,2,23,0
+Kopi Susu,Semarang,Siang,2,11,1
+Es Teh,Magelang,Sore,2,3,1
+Kopi Susu,Magelang,Malam,2,23,0
+Kopi Susu,Yogyakarta,Pagi,2,23,0
+Americano,Magelang,Sore,4,2,1
+Roti Bakar,Magelang,Sore,4,20,0
+Kentang Goreng,Semarang,Pagi,2,6,1
+Roti Bakar,Semarang,Pagi,2,17,0
+Roti Bakar,Semarang,Siang,4,21,0
+Es Teh,Magelang,Siang,5,5,0
+Americano,Magelang,Malam,2,24,0
+Kentang Goreng,Semarang,Pagi,5,16,1
+Cappuccino,Semarang,Malam,2,12,1
+Roti Bakar,Semarang,Siang,5,16,0
+Es Teh,Yogyakarta,Siang,3,7,1
+Kopi Susu,Yogyakarta,Pagi,4,9,1
+Roti Bakar,Semarang,Malam,4,13,0
+Roti Bakar,Yogyakarta,Pagi,3,15,0
+Roti Bakar,Semarang,Pagi,3,10,1
+Cappuccino,Semarang,Pagi,5,16,0
+Americano,Yogyakarta,Pagi,3,4,1
+Americano,Semarang,Siang,2,13,0
+Es Teh,Yogyakarta,Malam,4,10,1
+Americano,Yogyakarta,Sore,5,22,0
+Kopi Susu,Yogyakarta,Malam,4,4,1
+Americano,Magelang,Sore,2,11,0
+Es Teh,Yogyakarta,Malam,5,24,0
+Roti Bakar,Yogyakarta,Sore,4,14,0
+Americano,Semarang,Pagi,2,12,0
+Es Teh,Semarang,Pagi,4,7,1
+Roti Bakar,Magelang,Sore,5,20,0
+Es Teh,Yogyakarta,Malam,4,19,1
+Americano,Semarang,Siang,4,19,0
+Kentang Goreng,Semarang,Siang,2,14,1
+Americano,Yogyakarta,Siang,1,20,0
+Roti Bakar,Yogyakarta,Malam,4,2,1
+Roti Bakar,Magelang,Siang,4,12,0
+Roti Bakar,Semarang,Sore,5,20,0
+Americano,Yogyakarta,Malam,5,17,0
+Kopi Susu,Yogyakarta,Sore,1,18,0
+Es Teh,Yogyakarta,Pagi,4,18,0
+Cappuccino,Yogyakarta,Sore,5,9,0
+Roti Bakar,Semarang,Siang,2,7,0
+Kopi Susu,Yogyakarta,Siang,4,5,1
+Kentang Goreng,Yogyakarta,Sore,1,11,1
+Cappuccino,Semarang,Pagi,2,21,1
+Kopi Susu,Semarang,Siang,3,4,1
+Cappuccino,Yogyakarta,Sore,5,17,0
+Americano,Magelang,Pagi,3,19,0
+Roti Bakar,Semarang,Malam,3,11,1
+Es Teh,Magelang,Malam,5,20,1
+Kentang Goreng,Semarang,Malam,4,8,0
+Kopi Susu,Magelang,Sore,2,22,0
+Americano,Semarang,Malam,4,23,0
+Americano,Magelang,Siang,3,19,0
+Kopi Susu,Magelang,Siang,3,19,0
+Roti Bakar,Magelang,Sore,3,13,0
+Kentang Goreng,Magelang,Siang,1,4,1
+Es Teh,Magelang,Malam,2,6,1
+Es Teh,Semarang,Siang,5,23,0
+Americano,Magelang,Siang,4,10,1
+Americano,Magelang,Sore,3,2,1
+Cappuccino,Yogyakarta,Sore,3,9,1
+Es Teh,Yogyakarta,Siang,1,22,0
+Cappuccino,Yogyakarta,Siang,5,18,0
+Kentang Goreng,Yogyakarta,Siang,1,2,1
+Cappuccino,Yogyakarta,Malam,2,22,0
+Roti Bakar,Magelang,Sore,3,9,0
+Kentang Goreng,Semarang,Pagi,4,16,0
+Roti Bakar,Magelang,Pagi,2,15,0
+Cappuccino,Magelang,Sore,5,13,1
+Americano,Semarang,Sore,2,11,0
+Cappuccino,Semarang,Siang,3,18,0
+Cappuccino,Semarang,Pagi,5,5,1
+Kentang Goreng,Semarang,Siang,1,15,0
+Kopi Susu,Yogyakarta,Siang,3,5,1
+Kopi Susu,Magelang,Sore,4,24,0
+Kopi Susu,Semarang,Pagi,1,8,1
+Es Teh,Semarang,Siang,4,16,0
+Kentang Goreng,Yogyakarta,Siang,2,6,1
+Cappuccino,Semarang,Sore,3,3,1
+Americano,Magelang,Malam,5,8,1
+Americano,Semarang,Siang,3,7,1
+Roti Bakar,Yogyakarta,Sore,3,9,1
+Americano,Yogyakarta,Siang,1,4,1
+Americano,Magelang,Malam,5,22,0
+Es Teh,Semarang,Siang,5,23,0
+Cappuccino,Semarang,Sore,5,20,0
+Americano,Yogyakarta,Pagi,3,19,0
+Kentang Goreng,Magelang,Siang,3,2,1
+Kentang Goreng,Magelang,Siang,5,2,1
+Es Teh,Semarang,Malam,4,4,1
+Kentang Goreng,Semarang,Sore,3,10,1
+Americano,Semarang,Malam,3,21,0
+Kopi Susu,Magelang,Sore,4,11,1
+Kopi Susu,Magelang,Malam,2,6,1
+Kopi Susu,Semarang,Siang,2,7,1
+Kopi Susu,Semarang,Siang,1,4,1
+Cappuccino,Magelang,Pagi,1,12,1
+Roti Bakar,Yogyakarta,Siang,5,23,0
+Americano,Yogyakarta,Malam,3,13,1
+Kentang Goreng,Magelang,Malam,2,23,0
+Cappuccino,Yogyakarta,Pagi,5,20,1
+Americano,Magelang,Sore,1,17,0
+Cappuccino,Yogyakarta,Siang,2,8,0
+Kentang Goreng,Yogyakarta,Siang,4,5,0
+Kopi Susu,Magelang,Sore,4,8,0
+Roti Bakar,Magelang,Siang,2,23,0
+Kopi Susu,Yogyakarta,Siang,5,22,0
+Cappuccino,Yogyakarta,Malam,4,24,0
+Es Teh,Semarang,Malam,1,21,0
+Roti Bakar,Semarang,Sore,1,20,0
+Kopi Susu,Semarang,Siang,1,18,0
+Americano,Semarang,Siang,1,12,1
+Es Teh,Semarang,Sore,5,12,1
+Americano,Yogyakarta,Siang,1,9,1
+Kopi Susu,Semarang,Siang,2,24,0
+Kopi Susu,Yogyakarta,Siang,2,24,0
+Roti Bakar,Semarang,Pagi,1,14,1
+Kentang Goreng,Magelang,Siang,5,12,1
+Cappuccino,Yogyakarta,Pagi,5,7,1
+Cappuccino,Magelang,Malam,4,14,1
+Roti Bakar,Yogyakarta,Malam,2,2,1
+Roti Bakar,Magelang,Pagi,5,9,1
+Cappuccino,Yogyakarta,Siang,4,6,1
+Roti Bakar,Semarang,Pagi,4,18,0
+Americano,Magelang,Pagi,1,3,1
+Americano,Yogyakarta,Siang,1,23,0
+Kopi Susu,Semarang,Malam,4,19,0
+Roti Bakar,Yogyakarta,Sore,3,14,0
+Cappuccino,Magelang,Sore,1,8,1
+Kopi Susu,Magelang,Sore,4,8,0
+Es Teh,Semarang,Sore,2,6,1
+Cappuccino,Yogyakarta,Siang,1,13,0
+Es Teh,Semarang,Pagi,1,19,0
+Roti Bakar,Yogyakarta,Sore,4,10,1
+Cappuccino,Magelang,Siang,4,2,1
+Cappuccino,Yogyakarta,Sore,1,8,1
+Kentang Goreng,Semarang,Pagi,3,8,0
+Kopi Susu,Yogyakarta,Siang,5,14,1
+Kentang Goreng,Yogyakarta,Siang,1,9,1
+Americano,Yogyakarta,Sore,5,7,1
+Kentang Goreng,Semarang,Siang,2,13,0
+Kentang Goreng,Semarang,Sore,4,5,1
+Kentang Goreng,Magelang,Pagi,3,17,0
+Cappuccino,Yogyakarta,Siang,3,7,1
+Americano,Yogyakarta,Siang,4,3,1
+Kopi Susu,Semarang,Sore,3,10,0
+Americano,Magelang,Malam,4,17,0
+Americano,Semarang,Pagi,5,16,1
+Es Teh,Magelang,Pagi,5,20,1
+Cappuccino,Semarang,Malam,2,23,0
+Kopi Susu,Semarang,Malam,1,11,1
+Roti Bakar,Yogyakarta,Malam,4,13,1
+Kopi Susu,Semarang,Malam,1,11,0
+Roti Bakar,Yogyakarta,Pagi,1,5,1
+Kopi Susu,Magelang,Malam,2,11,0
+Cappuccino,Semarang,Sore,3,5,1
+Kopi Susu,Magelang,Malam,4,5,1
+Cappuccino,Magelang,Sore,1,16,0
+Es Teh,Semarang,Siang,2,19,0
+Americano,Semarang,Sore,4,8,0
+Americano,Magelang,Sore,5,24,0
+Kopi Susu,Semarang,Pagi,5,7,0
+Roti Bakar,Yogyakarta,Sore,5,17,0
+Es Teh,Magelang,Malam,2,23,0
+Kentang Goreng,Yogyakarta,Sore,3,14,1
+Roti Bakar,Magelang,Malam,1,14,1
+Es Teh,Yogyakarta,Pagi,1,17,1
+Es Teh,Semarang,Pagi,5,2,1
+Kopi Susu,Yogyakarta,Siang,1,8,1
+Cappuccino,Yogyakarta,Sore,4,5,1
+Cappuccino,Yogyakarta,Pagi,2,14,0
+Es Teh,Semarang,Siang,3,19,0
+Kopi Susu,Magelang,Sore,3,13,1
+Kentang Goreng,Magelang,Siang,5,8,1
+Kopi Susu,Magelang,Siang,5,23,0
+Kopi Susu,Yogyakarta,Siang,3,23,0
+Es Teh,Magelang,Malam,5,7,1
+Es Teh,Semarang,Pagi,1,2,1
+Es Teh,Semarang,Malam,3,24,0
+Es Teh,Magelang,Sore,2,10,1
+Americano,Semarang,Malam,1,6,1
+Cappuccino,Semarang,Pagi,5,7,1
+Kentang Goreng,Semarang,Sore,2,11,1
+Roti Bakar,Yogyakarta,Siang,2,4,1
+Es Teh,Magelang,Malam,2,5,1
+Es Teh,Semarang,Pagi,2,22,1
+Roti Bakar,Semarang,Siang,4,23,0
+Kopi Susu,Semarang,Pagi,3,9,1
+Kentang Goreng,Magelang,Siang,3,16,0
+Americano,Yogyakarta,Malam,3,18,0
+Americano,Yogyakarta,Siang,2,8,1
+Kopi Susu,Yogyakarta,Sore,1,15,0
+Kentang Goreng,Magelang,Sore,3,11,1
+Es Teh,Semarang,Sore,3,8,1
+Cappuccino,Magelang,Siang,1,20,0
+Roti Bakar,Semarang,Malam,3,13,0
+Kopi Susu,Yogyakarta,Sore,4,16,0
+Kentang Goreng,Semarang,Siang,1,18,0
+Roti Bakar,Yogyakarta,Siang,3,24,1
+Es Teh,Yogyakarta,Siang,1,20,0
+Kopi Susu,Semarang,Pagi,2,21,0
+Kopi Susu,Yogyakarta,Siang,3,8,1
+Cappuccino,Yogyakarta,Malam,3,2,1
+Es Teh,Semarang,Siang,1,22,0
+Es Teh,Semarang,Siang,5,3,1
+Kentang Goreng,Semarang,Pagi,5,8,1
+Es Teh,Semarang,Pagi,5,10,0
+Americano,Semarang,Pagi,1,20,0
+Kopi Susu,Semarang,Siang,4,14,1
+Kentang Goreng,Yogyakarta,Sore,4,2,1
+Kentang Goreng,Magelang,Malam,2,13,0
+Cappuccino,Semarang,Pagi,3,8,0
+Kopi Susu,Yogyakarta,Sore,3,24,0
+Americano,Semarang,Siang,2,9,0
+Roti Bakar,Magelang,Sore,3,9,1
+Cappuccino,Magelang,Pagi,1,21,0
+Cappuccino,Magelang,Pagi,4,10,1
+Kentang Goreng,Magelang,Sore,4,21,0
+Americano,Semarang,Sore,5,22,0
+Roti Bakar,Yogyakarta,Malam,3,22,0
+Kopi Susu,Magelang,Siang,4,18,1
+Kopi Susu,Magelang,Pagi,4,19,0
+Kentang Goreng,Yogyakarta,Siang,2,9,0
+Cappuccino,Semarang,Siang,4,14,0
+Es Teh,Yogyakarta,Pagi,2,19,1
+Kopi Susu,Yogyakarta,Pagi,3,18,0
+Americano,Yogyakarta,Sore,3,10,1
+Cappuccino,Magelang,Malam,1,20,0
+Es Teh,Yogyakarta,Siang,4,16,0
+Kentang Goreng,Semarang,Siang,3,24,0
+Cappuccino,Yogyakarta,Sore,3,3,1
+Kentang Goreng,Magelang,Sore,5,18,0
+Es Teh,Yogyakarta,Pagi,5,16,0
+Kopi Susu,Magelang,Pagi,4,8,1
+Es Teh,Magelang,Pagi,3,19,0
+Americano,Semarang,Sore,4,15,1
+Cappuccino,Magelang,Sore,1,20,0
+Cappuccino,Yogyakarta,Sore,5,20,0
+Cappuccino,Magelang,Siang,5,18,0
+Es Teh,Yogyakarta,Sore,2,14,0
+Kopi Susu,Semarang,Siang,4,16,0
+Roti Bakar,Semarang,Sore,1,9,1
+Kopi Susu,Semarang,Malam,4,14,1
+Americano,Yogyakarta,Pagi,3,9,0
+Cappuccino,Semarang,Malam,2,14,0
+Es Teh,Yogyakarta,Pagi,3,22,0
+Roti Bakar,Magelang,Pagi,5,24,0
+Kentang Goreng,Semarang,Pagi,4,14,0
+Cappuccino,Semarang,Pagi,5,22,0
+Kopi Susu,Magelang,Sore,5,14,0
+Roti Bakar,Semarang,Sore,2,8,1
+Es Teh,Yogyakarta,Malam,5,12,0
+Kopi Susu,Magelang,Pagi,4,12,1
+Americano,Yogyakarta,Malam,3,17,1
+Kopi Susu,Magelang,Sore,3,20,0
+Americano,Semarang,Malam,5,20,0
+Kopi Susu,Yogyakarta,Malam,4,16,0
+Kopi Susu,Magelang,Siang,5,24,0
+Kentang Goreng,Magelang,Pagi,5,14,0
+Roti Bakar,Semarang,Pagi,5,20,0
+Cappuccino,Magelang,Siang,4,18,0
+Cappuccino,Yogyakarta,Sore,4,21,0
+Cappuccino,Semarang,Malam,2,15,0
+Americano,Magelang,Siang,5,6,0
+Cappuccino,Semarang,Malam,5,4,1
+Es Teh,Yogyakarta,Siang,1,11,1
+Cappuccino,Semarang,Siang,4,2,1
+Americano,Magelang,Pagi,5,12,1
+Roti Bakar,Yogyakarta,Siang,1,17,0
+Es Teh,Magelang,Malam,4,12,1
+Kopi Susu,Magelang,Malam,3,24,0
+Americano,Semarang,Sore,2,12,1
+Americano,Semarang,Malam,3,10,1
+Es Teh,Magelang,Malam,1,11,1
+Kopi Susu,Yogyakarta,Siang,2,24,0
+Kentang Goreng,Semarang,Sore,3,17,0
+Cappuccino,Yogyakarta,Sore,4,20,1
+Kentang Goreng,Magelang,Sore,5,22,0
+Americano,Semarang,Sore,1,10,0
+Cappuccino,Magelang,Pagi,1,11,0
+Kentang Goreng,Magelang,Siang,5,5,1
+Americano,Semarang,Siang,3,19,0
+Roti Bakar,Yogyakarta,Siang,1,4,0
+Es Teh,Semarang,Malam,5,15,1
+Americano,Semarang,Siang,1,22,0
+Cappuccino,Semarang,Pagi,5,17,0
+Americano,Magelang,Siang,1,4,0
+Kentang Goreng,Semarang,Pagi,1,14,1
+Kentang Goreng,Semarang,Malam,5,13,0
+Roti Bakar,Semarang,Pagi,2,24,0
+Kopi Susu,Magelang,Pagi,1,16,0
+Americano,Magelang,Sore,2,22,0
+Es Teh,Magelang,Siang,3,4,1
+Americano,Semarang,Pagi,1,3,0
+Es Teh,Yogyakarta,Malam,4,24,0
+Kentang Goreng,Semarang,Sore,5,23,0
+Kentang Goreng,Magelang,Malam,4,24,0
+Kentang Goreng,Yogyakarta,Pagi,2,15,0
+Es Teh,Semarang,Siang,3,4,1
+Kopi Susu,Magelang,Siang,1,9,1
+Cappuccino,Yogyakarta,Malam,5,17,0
+Americano,Semarang,Pagi,3,16,0
+Kopi Susu,Magelang,Sore,1,2,1
+Cappuccino,Semarang,Pagi,1,13,0
+Kentang Goreng,Yogyakarta,Siang,3,8,1
+Roti Bakar,Magelang,Malam,3,9,1
+Americano,Semarang,Malam,3,9,1
+Kopi Susu,Yogyakarta,Siang,5,2,1
+Kentang Goreng,Magelang,Siang,5,8,1
+Kentang Goreng,Magelang,Siang,5,23,0
+Kentang Goreng,Magelang,Malam,4,17,1
+Americano,Semarang,Sore,2,7,1
+Es Teh,Yogyakarta,Pagi,3,20,0
+Es Teh,Magelang,Pagi,4,9,0
+Kopi Susu,Yogyakarta,Malam,5,23,0
+Kopi Susu,Magelang,Siang,5,6,1
+Kentang Goreng,Semarang,Malam,3,7,0
+Cappuccino,Yogyakarta,Siang,5,10,1
+Kopi Susu,Semarang,Malam,2,14,1
+Kentang Goreng,Semarang,Sore,1,19,0
+Es Teh,Semarang,Sore,4,6,1
+Roti Bakar,Magelang,Malam,2,17,1
+Cappuccino,Yogyakarta,Pagi,3,13,1
+Americano,Yogyakarta,Pagi,4,4,1
+Kentang Goreng,Magelang,Siang,5,24,0
+Kentang Goreng,Magelang,Pagi,5,16,1
+Roti Bakar,Semarang,Siang,4,18,0
+Roti Bakar,Magelang,Sore,4,6,1
+Cappuccino,Magelang,Pagi,3,7,0
+Kopi Susu,Magelang,Malam,3,23,0
+Kentang Goreng,Magelang,Siang,1,22,0
+Es Teh,Magelang,Malam,4,22,0
+Es Teh,Semarang,Pagi,3,6,1
+Americano,Semarang,Malam,3,20,1
+Roti Bakar,Magelang,Sore,4,8,0
+Roti Bakar,Magelang,Malam,4,11,0
+Americano,Semarang,Pagi,4,4,1
+Americano,Semarang,Sore,2,14,0
+Kentang Goreng,Magelang,Sore,2,21,0
+Kentang Goreng,Semarang,Malam,3,2,1
+Roti Bakar,Yogyakarta,Pagi,2,23,0
+Roti Bakar,Magelang,Pagi,2,6,1
+Roti Bakar,Magelang,Malam,1,20,1
+Kentang Goreng,Semarang,Sore,2,12,0
+Roti Bakar,Yogyakarta,Siang,5,12,1
+Americano,Magelang,Sore,1,21,0
+Es Teh,Semarang,Pagi,4,7,0
+Cappuccino,Semarang,Malam,5,7,1
+Kopi Susu,Magelang,Pagi,2,8,0
+Es Teh,Yogyakarta,Sore,4,19,0
+Roti Bakar,Magelang,Sore,4,15,1
+Roti Bakar,Semarang,Sore,1,24,1
+Es Teh,Magelang,Pagi,3,16,1
+Roti Bakar,Magelang,Malam,5,9,0
+Roti Bakar,Yogyakarta,Siang,2,23,0
+Americano,Yogyakarta,Siang,1,23,0
+Roti Bakar,Yogyakarta,Malam,2,12,1
+Kentang Goreng,Yogyakarta,Malam,2,22,0
+Cappuccino,Magelang,Malam,3,11,1
+Cappuccino,Yogyakarta,Sore,1,7,1
+Es Teh,Semarang,Siang,5,2,1
+Americano,Yogyakarta,Pagi,5,21,0
+Roti Bakar,Magelang,Pagi,3,22,0
+Kopi Susu,Semarang,Pagi,1,8,1
+Roti Bakar,Magelang,Pagi,4,24,0
+Cappuccino,Yogyakarta,Malam,1,19,0
+Es Teh,Magelang,Pagi,2,8,0
+Kopi Susu,Semarang,Siang,2,4,1
+Cappuccino,Magelang,Siang,5,15,0
+Es Teh,Magelang,Malam,2,5,1
+Roti Bakar,Yogyakarta,Malam,2,22,0
+Roti Bakar,Magelang,Malam,2,11,1
+Es Teh,Semarang,Pagi,2,13,0
+Kentang Goreng,Magelang,Pagi,1,6,1
+Roti Bakar,Semarang,Sore,2,11,0
+Roti Bakar,Magelang,Sore,5,20,0
+Kopi Susu,Semarang,Malam,4,8,0
+Roti Bakar,Yogyakarta,Pagi,4,9,1
+Roti Bakar,Yogyakarta,Pagi,4,7,1
+Americano,Yogyakarta,Siang,4,13,0
+Kopi Susu,Yogyakarta,Sore,4,2,1
+Americano,Yogyakarta,Malam,5,20,0
+Americano,Magelang,Siang,3,5,1
+Es Teh,Magelang,Siang,1,12,1
+Roti Bakar,Magelang,Malam,3,9,1
+Americano,Semarang,Siang,3,18,0
+Kentang Goreng,Magelang,Sore,2,16,0
+Cappuccino,Yogyakarta,Pagi,4,20,0
+Es Teh,Semarang,Sore,3,23,0
+Cappuccino,Semarang,Sore,3,18,0
+Es Teh,Semarang,Siang,5,8,1
+Kopi Susu,Magelang,Sore,3,16,0
+Roti Bakar,Yogyakarta,Siang,5,4,1
+Kopi Susu,Semarang,Sore,3,3,1
+Kopi Susu,Yogyakarta,Sore,1,5,1
+Cappuccino,Yogyakarta,Pagi,1,16,0
+Roti Bakar,Semarang,Malam,2,21,0
+Kopi Susu,Magelang,Siang,3,4,1
+Cappuccino,Semarang,Pagi,4,24,1
+Kopi Susu,Yogyakarta,Siang,1,6,0
+Roti Bakar,Semarang,Pagi,3,4,1
+Roti Bakar,Yogyakarta,Sore,5,22,0
+Americano,Magelang,Malam,1,23,0
+Es Teh,Semarang,Pagi,4,4,1
+Roti Bakar,Semarang,Malam,5,23,0
+Kopi Susu,Magelang,Sore,3,8,1
+Es Teh,Yogyakarta,Pagi,2,7,1
+Kentang Goreng,Yogyakarta,Malam,3,15,0
+Kentang Goreng,Magelang,Pagi,1,5,0
+Kentang Goreng,Yogyakarta,Malam,3,10,1
+Cappuccino,Semarang,Sore,2,23,1
+Kopi Susu,Magelang,Pagi,2,3,1
+Kopi Susu,Semarang,Pagi,3,18,0
+Kopi Susu,Yogyakarta,Sore,4,13,0
+Cappuccino,Semarang,Siang,2,15,1
+Americano,Yogyakarta,Malam,2,23,0
+Es Teh,Semarang,Siang,5,23,0
+Kentang Goreng,Yogyakarta,Malam,5,23,0
+Roti Bakar,Yogyakarta,Pagi,1,2,1
+Kentang Goreng,Semarang,Sore,2,4,1
+Es Teh,Semarang,Pagi,4,7,1
+Americano,Semarang,Siang,2,24,0
+Kentang Goreng,Magelang,Malam,2,12,0
+Cappuccino,Yogyakarta,Malam,1,15,0
+Es Teh,Magelang,Siang,1,15,0
+Kentang Goreng,Magelang,Malam,5,15,0
+Roti Bakar,Yogyakarta,Siang,3,21,0
+Es Teh,Semarang,Siang,3,23,0
+Roti Bakar,Yogyakarta,Malam,2,24,0
+Es Teh,Yogyakarta,Siang,2,14,0
+Kopi Susu,Magelang,Pagi,2,10,1
+Kentang Goreng,Yogyakarta,Siang,4,20,0
+Americano,Yogyakarta,Siang,5,14,0
+Roti Bakar,Semarang,Pagi,3,8,1
+Roti Bakar,Semarang,Sore,2,17,1
+Kentang Goreng,Yogyakarta,Pagi,3,20,0
+Cappuccino,Semarang,Siang,3,2,1
+Americano,Magelang,Sore,5,11,1
+Americano,Semarang,Sore,4,5,1
+Kentang Goreng,Semarang,Pagi,1,15,0
+Cappuccino,Magelang,Malam,1,11,0
+Cappuccino,Yogyakarta,Sore,2,18,1
+Americano,Semarang,Sore,5,10,1
+Kopi Susu,Magelang,Sore,1,11,1
+Kopi Susu,Yogyakarta,Pagi,1,16,0
+Kopi Susu,Semarang,Malam,4,8,0
+Kentang Goreng,Semarang,Sore,5,7,1
+Americano,Yogyakarta,Malam,4,16,0
+Es Teh,Semarang,Sore,2,13,0
+Kentang Goreng,Semarang,Pagi,1,23,0
+Kentang Goreng,Yogyakarta,Pagi,4,17,0
+Americano,Magelang,Sore,2,23,0
+Es Teh,Yogyakarta,Sore,4,7,1
+Roti Bakar,Magelang,Siang,3,7,1
+Americano,Yogyakarta,Sore,4,6,1
+Americano,Semarang,Sore,3,8,1
+Es Teh,Semarang,Pagi,1,9,0
+Roti Bakar,Yogyakarta,Sore,1,12,0
+Roti Bakar,Semarang,Malam,5,13,0
+Americano,Yogyakarta,Malam,1,12,1
+Cappuccino,Magelang,Malam,2,20,0
+Cappuccino,Yogyakarta,Sore,1,17,1
+Cappuccino,Magelang,Malam,1,10,1
+Es Teh,Magelang,Sore,5,20,0
+Kentang Goreng,Semarang,Pagi,5,2,1
+Cappuccino,Magelang,Malam,5,4,1
+Cappuccino,Yogyakarta,Siang,1,15,1
+Kentang Goreng,Yogyakarta,Pagi,4,10,1
+Roti Bakar,Semarang,Siang,2,14,0
+Kopi Susu,Magelang,Sore,1,3,0
+Roti Bakar,Semarang,Sore,5,11,0
+Es Teh,Yogyakarta,Malam,2,22,0
+Cappuccino,Magelang,Siang,2,14,0
+Roti Bakar,Magelang,Siang,3,6,1
+Kentang Goreng,Magelang,Pagi,4,14,1
+Roti Bakar,Magelang,Sore,3,14,1
+Kopi Susu,Yogyakarta,Siang,5,14,1
+Roti Bakar,Yogyakarta,Sore,4,19,1
+Es Teh,Magelang,Pagi,2,7,0
+Roti Bakar,Yogyakarta,Siang,2,11,1
+Es Teh,Semarang,Siang,5,14,0
+Cappuccino,Yogyakarta,Pagi,3,10,1
+Americano,Magelang,Malam,2,22,0
+Es Teh,Yogyakarta,Sore,4,5,1
+Americano,Magelang,Sore,3,5,0
+Cappuccino,Magelang,Pagi,2,22,1
+Kopi Susu,Semarang,Pagi,5,8,1
+Roti Bakar,Semarang,Sore,3,7,1
+Cappuccino,Yogyakarta,Pagi,2,13,0
+Kentang Goreng,Magelang,Malam,2,23,0
+Americano,Magelang,Pagi,1,22,0
+Kopi Susu,Semarang,Sore,1,4,1
+Roti Bakar,Yogyakarta,Pagi,4,10,1
+Americano,Magelang,Siang,4,23,0
+Kentang Goreng,Semarang,Pagi,4,24,0
+Cappuccino,Semarang,Sore,4,4,1
+Americano,Yogyakarta,Sore,3,11,0
+Cappuccino,Magelang,Sore,5,22,1
+Americano,Magelang,Sore,5,15,1
+Cappuccino,Magelang,Pagi,1,11,1
+Es Teh,Yogyakarta,Sore,5,14,1
+Es Teh,Semarang,Pagi,2,21,0
+Kopi Susu,Magelang,Siang,5,4,1
+Americano,Semarang,Malam,1,3,1
+Es Teh,Yogyakarta,Malam,3,14,1
+Kopi Susu,Magelang,Pagi,1,11,1
+Es Teh,Yogyakarta,Siang,3,15,0
+Cappuccino,Yogyakarta,Pagi,5,14,0
+Roti Bakar,Semarang,Pagi,2,22,0
+Kopi Susu,Magelang,Sore,4,21,0
+Roti Bakar,Yogyakarta,Pagi,4,24,0
+Americano,Yogyakarta,Siang,2,15,0
+Es Teh,Magelang,Malam,1,23,0
+Kopi Susu,Yogyakarta,Siang,4,7,1
+Es Teh,Semarang,Pagi,5,6,1
+Americano,Semarang,Malam,4,4,1
+Es Teh,Magelang,Pagi,1,18,0
+Cappuccino,Semarang,Malam,4,8,1
+Roti Bakar,Magelang,Sore,4,9,1
+Es Teh,Yogyakarta,Malam,2,6,1
+Roti Bakar,Magelang,Pagi,3,6,0
+Kentang Goreng,Magelang,Pagi,4,9,0
+Kentang Goreng,Magelang,Malam,1,15,1
+Kopi Susu,Semarang,Sore,3,15,0
+Kentang Goreng,Magelang,Pagi,3,16,0
+Es Teh,Yogyakarta,Pagi,3,12,0
+Americano,Semarang,Pagi,2,10,1
+Kopi Susu,Semarang,Malam,4,18,0
+Kentang Goreng,Semarang,Siang,4,5,1
+Americano,Magelang,Sore,2,5,1
+Roti Bakar,Magelang,Sore,1,17,0
+Americano,Semarang,Pagi,4,19,0
+Kentang Goreng,Yogyakarta,Malam,4,17,0
+Roti Bakar,Magelang,Siang,4,2,1
+Roti Bakar,Semarang,Siang,4,17,0
+Roti Bakar,Semarang,Siang,5,24,0
+Kentang Goreng,Yogyakarta,Pagi,4,4,1
+Kentang Goreng,Yogyakarta,Siang,3,24,0
+Americano,Magelang,Malam,5,7,1
+Roti Bakar,Yogyakarta,Sore,2,7,0
+Americano,Yogyakarta,Siang,5,10,1
+Kentang Goreng,Magelang,Malam,4,2,0
+Kopi Susu,Yogyakarta,Siang,5,3,1
+Kopi Susu,Yogyakarta,Malam,4,18,1
+Roti Bakar,Yogyakarta,Pagi,1,22,1
+Roti Bakar,Semarang,Pagi,5,20,1
+Cappuccino,Yogyakarta,Sore,5,7,1
+Americano,Semarang,Sore,1,9,1
+Es Teh,Yogyakarta,Pagi,3,2,1
+Roti Bakar,Semarang,Sore,2,8,0
+Americano,Yogyakarta,Sore,5,24,0
+Kentang Goreng,Semarang,Sore,3,15,0
+Cappuccino,Yogyakarta,Malam,4,2,1
+Americano,Semarang,Sore,2,17,0
+Kentang Goreng,Magelang,Malam,5,22,0
+Cappuccino,Magelang,Sore,2,24,0
+Kopi Susu,Magelang,Siang,1,6,0
+Americano,Semarang,Pagi,1,20,0
+Americano,Semarang,Pagi,5,21,1
+Kopi Susu,Semarang,Pagi,4,9,1
+Cappuccino,Magelang,Malam,1,24,0
+Cappuccino,Semarang,Sore,1,5,1
+Kopi Susu,Magelang,Siang,5,24,0
+Es Teh,Semarang,Sore,1,21,0
+Kentang Goreng,Semarang,Sore,1,10,1
+Kopi Susu,Yogyakarta,Sore,5,18,0
+Kentang Goreng,Yogyakarta,Malam,4,10,0
+Cappuccino,Yogyakarta,Siang,3,3,1
+Cappuccino,Magelang,Malam,4,13,0
+Cappuccino,Yogyakarta,Siang,3,2,1
+Kentang Goreng,Yogyakarta,Pagi,1,21,0
+Kopi Susu,Magelang,Sore,1,21,0
+Roti Bakar,Magelang,Sore,1,11,1
+Kentang Goreng,Yogyakarta,Pagi,1,23,0
+Americano,Magelang,Siang,2,9,0
+Kopi Susu,Semarang,Sore,3,18,1
+Kopi Susu,Magelang,Pagi,4,19,0
+Kentang Goreng,Magelang,Pagi,4,6,1
+Es Teh,Magelang,Siang,3,18,0
+Es Teh,Yogyakarta,Siang,1,13,1
+Kentang Goreng,Yogyakarta,Sore,1,9,1
+Cappuccino,Magelang,Malam,5,6,1
+Cappuccino,Magelang,Siang,5,4,1
+Americano,Yogyakarta,Sore,2,4,1
+Americano,Semarang,Pagi,4,19,0
+Kopi Susu,Yogyakarta,Sore,1,10,0
+Kopi Susu,Yogyakarta,Pagi,2,14,1
+Kopi Susu,Magelang,Malam,4,18,1
+Kopi Susu,Yogyakarta,Pagi,2,12,0
+Roti Bakar,Magelang,Sore,2,11,1
+Roti Bakar,Yogyakarta,Sore,4,9,0
+Cappuccino,Magelang,Pagi,5,17,0
+Es Teh,Semarang,Pagi,4,2,1
+Cappuccino,Semarang,Pagi,4,5,1
+Cappuccino,Semarang,Pagi,4,23,0
+Roti Bakar,Semarang,Malam,5,18,0
+Americano,Yogyakarta,Sore,5,15,1
+Kopi Susu,Semarang,Siang,4,24,1
+Cappuccino,Semarang,Malam,3,10,1
+Es Teh,Yogyakarta,Sore,1,13,0
+Americano,Magelang,Pagi,4,9,0
+Roti Bakar,Magelang,Sore,4,4,0
+Roti Bakar,Yogyakarta,Pagi,2,12,0
+Kopi Susu,Magelang,Siang,1,21,1
+Kentang Goreng,Magelang,Siang,2,10,1
+Cappuccino,Semarang,Sore,4,14,0
+Kentang Goreng,Yogyakarta,Malam,5,2,1
+Kentang Goreng,Yogyakarta,Siang,2,3,1
+Roti Bakar,Yogyakarta,Siang,2,5,1
+Roti Bakar,Magelang,Pagi,3,17,0
+Roti Bakar,Magelang,Pagi,2,5,0
+Kopi Susu,Yogyakarta,Siang,1,13,1
+Cappuccino,Yogyakarta,Pagi,2,21,0
+Es Teh,Yogyakarta,Malam,3,24,0
+Roti Bakar,Yogyakarta,Malam,3,9,0
+Roti Bakar,Magelang,Malam,3,22,0
+Roti Bakar,Semarang,Siang,1,4,1
+Kopi Susu,Magelang,Siang,3,9,1
+Kopi Susu,Yogyakarta,Siang,2,8,0
+Kopi Susu,Magelang,Pagi,2,4,1
+Kentang Goreng,Semarang,Pagi,4,24,0
+Kopi Susu,Magelang,Malam,3,24,1
+Cappuccino,Semarang,Malam,1,4,1
+Americano,Semarang,Sore,2,19,0
+Roti Bakar,Semarang,Sore,3,14,0
+Kentang Goreng,Semarang,Malam,4,2,1
+Cappuccino,Semarang,Sore,1,14,0
+Roti Bakar,Magelang,Siang,2,16,0
+Kentang Goreng,Yogyakarta,Pagi,1,9,0
+Americano,Yogyakarta,Malam,5,6,1
+Es Teh,Yogyakarta,Malam,5,21,0
+Cappuccino,Semarang,Malam,3,7,0
+Cappuccino,Yogyakarta,Pagi,1,7,1
+Cappuccino,Semarang,Pagi,4,2,1
+Americano,Yogyakarta,Malam,5,10,1
+Cappuccino,Magelang,Sore,2,13,1
+Es Teh,Yogyakarta,Siang,5,23,0
+Americano,Semarang,Siang,1,18,0
+Kopi Susu,Magelang,Malam,1,9,1
+Es Teh,Semarang,Pagi,5,10,1
+Kentang Goreng,Semarang,Siang,4,9,1
+Es Teh,Yogyakarta,Siang,1,4,0
+Kentang Goreng,Yogyakarta,Malam,2,22,0
+Kentang Goreng,Magelang,Pagi,3,20,0
+Es Teh,Yogyakarta,Malam,4,2,1
+Cappuccino,Semarang,Malam,1,12,1
+Kentang Goreng,Magelang,Pagi,2,2,1
+Cappuccino,Semarang,Malam,5,20,0
+Kopi Susu,Yogyakarta,Pagi,1,24,0
+Kopi Susu,Semarang,Sore,5,2,1
+Kopi Susu,Magelang,Malam,2,8,1
+Es Teh,Semarang,Sore,3,17,0
+Es Teh,Magelang,Sore,2,22,0
+Kentang Goreng,Magelang,Pagi,4,19,0
+Es Teh,Semarang,Siang,3,6,1
+Es Teh,Magelang,Malam,5,17,0
+Kentang Goreng,Yogyakarta,Sore,4,6,1
+Es Teh,Magelang,Pagi,3,5,1
+Americano,Yogyakarta,Malam,5,4,1
+Cappuccino,Semarang,Siang,3,5,1
+Roti Bakar,Magelang,Sore,5,6,1
+Kopi Susu,Yogyakarta,Siang,2,20,1
+Cappuccino,Magelang,Pagi,4,15,1
+Kopi Susu,Semarang,Sore,2,16,1
+Kopi Susu,Yogyakarta,Pagi,2,4,1
+Es Teh,Yogyakarta,Pagi,5,20,0
+Roti Bakar,Semarang,Sore,4,11,0
+Kentang Goreng,Semarang,Sore,4,11,1
+Cappuccino,Yogyakarta,Siang,1,7,1
+Kentang Goreng,Magelang,Sore,3,23,0
+Kentang Goreng,Magelang,Malam,3,5,0
+Kentang Goreng,Yogyakarta,Malam,3,5,1
+Roti Bakar,Magelang,Pagi,5,23,0
+Es Teh,Yogyakarta,Pagi,5,17,0
+Roti Bakar,Yogyakarta,Malam,2,9,1
+Americano,Semarang,Malam,5,18,0
+Es Teh,Yogyakarta,Malam,4,2,0
+Roti Bakar,Magelang,Malam,4,19,0
+Roti Bakar,Semarang,Malam,2,4,1
+Kopi Susu,Magelang,Malam,2,11,1
+Kopi Susu,Magelang,Sore,3,8,0
+Kentang Goreng,Magelang,Pagi,3,9,1
+Kentang Goreng,Yogyakarta,Sore,2,21,0
+Americano,Semarang,Sore,2,21,0
+Kopi Susu,Yogyakarta,Siang,5,21,0
+Roti Bakar,Yogyakarta,Pagi,4,4,1
+Roti Bakar,Yogyakarta,Pagi,4,13,1
+Kentang Goreng,Yogyakarta,Sore,3,8,1
+Es Teh,Yogyakarta,Malam,5,6,0
+Americano,Yogyakarta,Pagi,1,7,1
+Es Teh,Magelang,Sore,1,5,1
+Kentang Goreng,Semarang,Sore,5,8,0
+Kopi Susu,Semarang,Pagi,2,8,1
+Americano,Yogyakarta,Siang,5,19,0
+Kopi Susu,Semarang,Pagi,2,10,1
+Cappuccino,Semarang,Pagi,5,6,1
+Kentang Goreng,Semarang,Siang,1,21,0
+Kopi Susu,Yogyakarta,Pagi,5,10,0
+Es Teh,Magelang,Sore,4,19,0
+Kentang Goreng,Yogyakarta,Pagi,5,16,1
+Kentang Goreng,Semarang,Pagi,4,9,0
+Kentang Goreng,Semarang,Sore,5,11,1
+Es Teh,Semarang,Siang,2,22,0
+Americano,Magelang,Pagi,2,8,1
+Americano,Yogyakarta,Siang,3,15,1
+Cappuccino,Magelang,Sore,4,13,0
+Kentang Goreng,Magelang,Pagi,4,4,0
+Americano,Semarang,Sore,4,3,1
+Es Teh,Yogyakarta,Pagi,4,22,0
+Roti Bakar,Yogyakarta,Sore,2,15,0
+Es Teh,Yogyakarta,Pagi,3,8,0
+Americano,Magelang,Pagi,5,21,0
+Kopi Susu,Yogyakarta,Siang,4,20,1
+Kentang Goreng,Magelang,Siang,4,20,0
+Americano,Magelang,Siang,2,7,1
+Kopi Susu,Yogyakarta,Siang,3,4,1
+Americano,Yogyakarta,Malam,3,12,1
+Kopi Susu,Magelang,Sore,3,19,0
+Es Teh,Magelang,Pagi,5,9,1
+Es Teh,Semarang,Malam,2,10,1
+Cappuccino,Semarang,Malam,2,2,0
+Es Teh,Magelang,Siang,3,6,1
+Kentang Goreng,Semarang,Pagi,4,7,0
+Americano,Semarang,Sore,5,16,0
+Roti Bakar,Magelang,Malam,4,19,0
+Kopi Susu,Semarang,Sore,3,12,0
+Americano,Yogyakarta,Sore,4,21,0
+Es Teh,Yogyakarta,Siang,2,17,1
+Americano,Magelang,Sore,3,13,1
+Americano,Magelang,Siang,5,17,0
+Americano,Semarang,Pagi,4,19,0
+Roti Bakar,Yogyakarta,Pagi,5,2,1
+Es Teh,Yogyakarta,Sore,3,9,1
+Kentang Goreng,Semarang,Sore,2,9,1
+Cappuccino,Yogyakarta,Siang,2,5,1
+Americano,Semarang,Siang,4,10,1
+Es Teh,Magelang,Malam,2,14,0
+Es Teh,Semarang,Pagi,2,17,0
+Es Teh,Yogyakarta,Sore,4,18,0
+Roti Bakar,Yogyakarta,Pagi,3,4,1
+Cappuccino,Semarang,Siang,3,18,0
+Cappuccino,Yogyakarta,Pagi,5,8,1
+Kopi Susu,Magelang,Siang,2,16,0
+Roti Bakar,Magelang,Siang,3,6,1
+Americano,Semarang,Malam,4,3,0
+Americano,Magelang,Pagi,2,24,0
+Americano,Semarang,Malam,1,2,0
+Kentang Goreng,Yogyakarta,Siang,5,13,1
+Kopi Susu,Yogyakarta,Pagi,2,15,0
+Kentang Goreng,Semarang,Pagi,4,2,0
+Americano,Yogyakarta,Malam,4,24,0
+Americano,Semarang,Siang,3,21,1
+Kentang Goreng,Magelang,Pagi,1,6,1
+Roti Bakar,Semarang,Pagi,1,3,1
+Roti Bakar,Yogyakarta,Malam,2,16,0
+Kopi Susu,Magelang,Sore,5,15,0
+Kopi Susu,Semarang,Siang,4,7,1
+Americano,Semarang,Siang,3,15,0
+Es Teh,Yogyakarta,Pagi,1,15,0
+Es Teh,Yogyakarta,Pagi,4,17,0
+Cappuccino,Semarang,Malam,4,9,1
+Kentang Goreng,Yogyakarta,Sore,4,15,1
+Es Teh,Semarang,Siang,4,22,0
+Americano,Semarang,Pagi,4,20,0
+Cappuccino,Magelang,Sore,1,14,0
+Es Teh,Yogyakarta,Siang,3,20,0
+Kopi Susu,Yogyakarta,Pagi,5,6,1
+Kentang Goreng,Semarang,Siang,2,2,1
+Kopi Susu,Magelang,Pagi,1,23,0
+Kopi Susu,Yogyakarta,Siang,1,13,0
+Es Teh,Yogyakarta,Sore,2,18,0
+Kentang Goreng,Yogyakarta,Malam,2,2,1
+Kentang Goreng,Yogyakarta,Siang,2,22,0
+Kentang Goreng,Yogyakarta,Sore,3,20,0
+Cappuccino,Magelang,Siang,4,20,0
+Americano,Yogyakarta,Malam,3,24,0
+Roti Bakar,Yogyakarta,Sore,2,15,1
+Es Teh,Magelang,Malam,4,20,0
+Kopi Susu,Magelang,Siang,4,8,0
+Kopi Susu,Yogyakarta,Siang,3,20,0
+Kopi Susu,Yogyakarta,Sore,4,11,0
+Roti Bakar,Yogyakarta,Siang,5,14,0
+Kopi Susu,Semarang,Pagi,3,14,0
+Roti Bakar,Magelang,Siang,3,5,1
+Cappuccino,Semarang,Pagi,5,23,0
+Kentang Goreng,Yogyakarta,Sore,4,11,1
+Roti Bakar,Semarang,Pagi,1,21,0
+Es Teh,Magelang,Malam,1,2,1
+Americano,Semarang,Pagi,2,24,0
+Cappuccino,Magelang,Malam,1,20,0
+Kentang Goreng,Yogyakarta,Siang,5,12,0
+Es Teh,Semarang,Siang,5,12,0
+Cappuccino,Magelang,Malam,3,2,1
+Americano,Yogyakarta,Pagi,1,15,1
+Es Teh,Yogyakarta,Sore,1,13,0
+Kentang Goreng,Semarang,Malam,4,13,0
+Americano,Semarang,Sore,4,12,0
+Kopi Susu,Magelang,Sore,5,12,0
+Es Teh,Yogyakarta,Pagi,2,14,1
+Cappuccino,Yogyakarta,Sore,1,24,0
+Roti Bakar,Semarang,Sore,1,19,0
+Americano,Semarang,Pagi,4,2,1
+Roti Bakar,Magelang,Malam,5,23,0
+Kentang Goreng,Magelang,Sore,1,7,1
+Cappuccino,Yogyakarta,Sore,2,3,1
+Roti Bakar,Semarang,Siang,4,22,0
+Roti Bakar,Semarang,Siang,1,18,0
+Americano,Semarang,Siang,3,4,1
+Es Teh,Magelang,Siang,2,6,0
+Kopi Susu,Magelang,Pagi,4,19,0
+Americano,Yogyakarta,Siang,5,18,1
+Kopi Susu,Yogyakarta,Siang,2,2,1
+Americano,Yogyakarta,Malam,4,3,1
+Es Teh,Yogyakarta,Pagi,2,3,1
+Roti Bakar,Magelang,Malam,3,6,1
+Kopi Susu,Semarang,Sore,2,19,0
+Roti Bakar,Magelang,Sore,4,4,1
+Cappuccino,Semarang,Malam,5,5,1
+Es Teh,Yogyakarta,Siang,1,22,0
+Kopi Susu,Semarang,Malam,3,14,0
+Kentang Goreng,Yogyakarta,Sore,3,2,1
+Kopi Susu,Yogyakarta,Malam,3,12,1
+Kentang Goreng,Yogyakarta,Pagi,5,22,0
+Es Teh,Magelang,Malam,2,19,0
+Roti Bakar,Magelang,Siang,4,10,1
+Cappuccino,Yogyakarta,Sore,3,13,0
+Kentang Goreng,Yogyakarta,Siang,3,21,0
+Roti Bakar,Magelang,Pagi,4,13,1
+Americano,Semarang,Pagi,3,16,0
+Americano,Magelang,Sore,1,18,0
+Americano,Semarang,Malam,3,7,0
+Americano,Semarang,Malam,5,10,1
+Americano,Yogyakarta,Pagi,5,18,0
+Kentang Goreng,Magelang,Siang,2,24,0
+Cappuccino,Magelang,Siang,2,22,0
+Roti Bakar,Semarang,Pagi,2,19,0
+Americano,Semarang,Malam,3,13,0
+Es Teh,Yogyakarta,Pagi,4,13,0
+Es Teh,Yogyakarta,Sore,5,24,0
+Kentang Goreng,Magelang,Sore,1,13,1
+Kopi Susu,Semarang,Siang,3,8,1
+Roti Bakar,Yogyakarta,Sore,2,22,0
+Cappuccino,Yogyakarta,Sore,2,11,1
+Kopi Susu,Magelang,Malam,3,23,0
+Roti Bakar,Semarang,Malam,1,6,1
+Es Teh,Magelang,Pagi,5,10,1
+Cappuccino,Yogyakarta,Siang,4,19,0
+Cappuccino,Magelang,Sore,2,24,0
+Cappuccino,Semarang,Sore,3,9,1
+Roti Bakar,Semarang,Siang,1,15,0
+Es Teh,Semarang,Pagi,5,20,0
+Es Teh,Semarang,Pagi,5,22,0
+Kentang Goreng,Magelang,Pagi,4,2,1
+Americano,Semarang,Sore,4,18,0
+Kopi Susu,Magelang,Siang,4,9,0
+Es Teh,Magelang,Siang,1,14,0
+Americano,Yogyakarta,Sore,2,3,1
+Americano,Yogyakarta,Sore,1,7,1
+Roti Bakar,Yogyakarta,Sore,1,2,0
+Es Teh,Yogyakarta,Siang,1,5,1
+Cappuccino,Magelang,Malam,3,5,1
+Cappuccino,Yogyakarta,Sore,1,19,0
+Kentang Goreng,Yogyakarta,Sore,5,2,1
+Cappuccino,Yogyakarta,Siang,4,24,0
+Es Teh,Yogyakarta,Siang,2,9,0
+Cappuccino,Semarang,Sore,5,4,1
+Roti Bakar,Semarang,Siang,1,17,0
+Kentang Goreng,Magelang,Pagi,5,9,0
+Americano,Semarang,Sore,4,17,0
+Cappuccino,Semarang,Malam,2,6,1
+Americano,Semarang,Sore,2,9,1
+Kopi Susu,Semarang,Malam,1,9,1
+Es Teh,Semarang,Malam,5,8,1
+Es Teh,Magelang,Siang,3,14,0
+Kentang Goreng,Yogyakarta,Malam,4,4,1
+Americano,Magelang,Malam,2,2,1
+Kopi Susu,Magelang,Pagi,5,18,1
+Kopi Susu,Magelang,Pagi,4,13,0
+Es Teh,Yogyakarta,Siang,5,14,0
+Es Teh,Magelang,Sore,2,23,0
+Roti Bakar,Semarang,Sore,2,2,1
+Kentang Goreng,Semarang,Siang,5,11,1
+Roti Bakar,Semarang,Malam,5,2,1
+Roti Bakar,Magelang,Pagi,2,3,1
+Kentang Goreng,Yogyakarta,Malam,1,16,1
+Kopi Susu,Semarang,Sore,5,12,1
+Kentang Goreng,Yogyakarta,Siang,2,18,1
+Es Teh,Magelang,Pagi,5,4,1
+Cappuccino,Magelang,Siang,1,22,0
+Roti Bakar,Semarang,Siang,4,8,1
+Cappuccino,Yogyakarta,Pagi,1,13,1
+Kopi Susu,Semarang,Siang,5,4,1
+Roti Bakar,Magelang,Pagi,1,3,1
+Kentang Goreng,Magelang,Sore,2,15,0
+Es Teh,Yogyakarta,Pagi,3,18,0
+Kentang Goreng,Magelang,Pagi,3,22,0
+Kopi Susu,Yogyakarta,Sore,3,19,0
+Americano,Semarang,Malam,3,9,1
+Es Teh,Semarang,Siang,5,10,0
+Kopi Susu,Magelang,Pagi,1,5,1
+Roti Bakar,Magelang,Siang,3,5,1
+Cappuccino,Semarang,Siang,5,16,0
+Americano,Semarang,Malam,5,19,1
+Kentang Goreng,Yogyakarta,Sore,4,19,0
+Cappuccino,Magelang,Siang,2,21,0
+Americano,Yogyakarta,Pagi,2,20,0
+Americano,Yogyakarta,Sore,3,15,0
+Roti Bakar,Yogyakarta,Pagi,2,18,0
+Roti Bakar,Magelang,Malam,2,16,0
+Cappuccino,Semarang,Sore,1,11,1
+Es Teh,Yogyakarta,Siang,5,17,1
+Cappuccino,Magelang,Sore,5,8,1
+Americano,Semarang,Pagi,2,4,1
+Roti Bakar,Yogyakarta,Sore,5,8,1
+Roti Bakar,Magelang,Malam,3,22,0
+Kentang Goreng,Semarang,Malam,1,7,1
+Kopi Susu,Semarang,Siang,2,14,0
+Cappuccino,Yogyakarta,Sore,3,10,1
+Es Teh,Yogyakarta,Malam,1,21,0
+Cappuccino,Semarang,Siang,4,24,0
+Kentang Goreng,Semarang,Siang,1,21,0
+Es Teh,Magelang,Sore,5,20,0
+Americano,Yogyakarta,Sore,3,17,0
+Kentang Goreng,Semarang,Malam,1,11,0
+Kopi Susu,Magelang,Pagi,4,24,0
+Kopi Susu,Yogyakarta,Pagi,4,21,1
+Americano,Magelang,Pagi,1,22,0
+Kentang Goreng,Semarang,Siang,4,6,1
+Americano,Magelang,Malam,4,16,0
+Roti Bakar,Yogyakarta,Malam,4,5,0
+Americano,Semarang,Pagi,1,22,0
+Kopi Susu,Magelang,Sore,2,15,1
+Roti Bakar,Yogyakarta,Malam,5,8,0
+Cappuccino,Yogyakarta,Siang,4,21,0
+Kentang Goreng,Magelang,Sore,1,20,0
+Roti Bakar,Semarang,Sore,1,6,1
+Kentang Goreng,Yogyakarta,Pagi,4,11,1
+Cappuccino,Yogyakarta,Sore,4,10,0
+Es Teh,Semarang,Pagi,5,7,0
+Kopi Susu,Yogyakarta,Malam,1,21,0
+Kentang Goreng,Magelang,Malam,3,21,0
+Americano,Magelang,Siang,2,22,1
+Kentang Goreng,Semarang,Pagi,1,24,0
+Cappuccino,Yogyakarta,Malam,2,16,0
+Kentang Goreng,Semarang,Sore,5,13,0
+Cappuccino,Magelang,Siang,2,11,1
+Kentang Goreng,Magelang,Sore,5,17,1
+Americano,Magelang,Malam,5,8,1
+Kentang Goreng,Semarang,Malam,5,14,1
+Kentang Goreng,Yogyakarta,Pagi,1,5,1
+Kentang Goreng,Semarang,Sore,3,9,1
+Kopi Susu,Semarang,Malam,4,18,1
+Cappuccino,Yogyakarta,Malam,2,20,0
+Roti Bakar,Yogyakarta,Malam,3,20,0
+Es Teh,Magelang,Malam,5,24,0
+Americano,Magelang,Siang,1,22,0
+Americano,Magelang,Sore,1,4,1
+Americano,Yogyakarta,Pagi,4,4,1
+Es Teh,Semarang,Malam,2,18,1
+Kopi Susu,Semarang,Pagi,4,13,1
+Roti Bakar,Yogyakarta,Pagi,2,15,0
+Es Teh,Yogyakarta,Sore,5,14,0
+Roti Bakar,Yogyakarta,Pagi,5,17,0
+Kopi Susu,Yogyakarta,Malam,1,11,1
+Kentang Goreng,Magelang,Pagi,3,13,0
+Es Teh,Yogyakarta,Pagi,3,16,1
+Americano,Yogyakarta,Sore,5,9,1
+Cappuccino,Semarang,Sore,2,6,1
+Es Teh,Yogyakarta,Malam,5,14,0
+Cappuccino,Yogyakarta,Pagi,2,23,0
+Kentang Goreng,Magelang,Malam,2,2,1
+Kentang Goreng,Semarang,Siang,3,19,1
+Roti Bakar,Semarang,Malam,2,9,0
+Kentang Goreng,Semarang,Sore,4,20,0
+Kopi Susu,Semarang,Malam,1,14,0
+Americano,Yogyakarta,Malam,5,20,0
+Es Teh,Semarang,Pagi,4,17,1
+Kopi Susu,Semarang,Sore,4,13,0
+Es Teh,Semarang,Siang,1,23,0
+Kentang Goreng,Yogyakarta,Siang,1,22,0
+Cappuccino,Yogyakarta,Siang,2,18,0
+Americano,Magelang,Pagi,2,13,0
+Roti Bakar,Semarang,Sore,2,2,1
+Cappuccino,Yogyakarta,Sore,5,6,1
+Kentang Goreng,Semarang,Siang,4,20,0
+Kopi Susu,Semarang,Sore,3,20,1
+Roti Bakar,Yogyakarta,Siang,2,16,0
+Es Teh,Semarang,Malam,2,10,0
+Es Teh,Yogyakarta,Sore,1,14,0
+Americano,Magelang,Sore,3,10,0
+Kopi Susu,Magelang,Sore,5,24,0
+Americano,Magelang,Sore,4,5,1
+Cappuccino,Yogyakarta,Malam,5,3,1
+Roti Bakar,Yogyakarta,Sore,4,13,1
+Kopi Susu,Semarang,Siang,2,5,1
+Cappuccino,Yogyakarta,Siang,1,15,0
+Kentang Goreng,Semarang,Sore,1,14,1
+Es Teh,Semarang,Pagi,4,17,0
+Cappuccino,Yogyakarta,Malam,4,10,1
+Es Teh,Semarang,Siang,2,16,0
+Roti Bakar,Semarang,Malam,3,10,0
+Kentang Goreng,Magelang,Malam,4,8,0
+Kentang Goreng,Magelang,Malam,3,23,0
+Roti Bakar,Semarang,Pagi,3,21,0
+Kopi Susu,Magelang,Pagi,5,16,0
+Roti Bakar,Magelang,Sore,5,7,1
+Cappuccino,Yogyakarta,Sore,1,15,0
+Kopi Susu,Yogyakarta,Sore,3,3,1
+Es Teh,Semarang,Sore,3,21,0
+Roti Bakar,Semarang,Siang,3,4,1
+Roti Bakar,Magelang,Malam,2,16,1
+Roti Bakar,Yogyakarta,Malam,2,11,0
+Cappuccino,Yogyakarta,Pagi,5,14,0
+Roti Bakar,Magelang,Pagi,5,16,0
+Kopi Susu,Semarang,Pagi,1,16,0
+Kentang Goreng,Yogyakarta,Malam,1,20,0
+Kopi Susu,Magelang,Sore,3,15,1
+Es Teh,Magelang,Malam,5,13,0
+Kopi Susu,Yogyakarta,Malam,5,10,1
+Kentang Goreng,Yogyakarta,Malam,1,15,0
+Roti Bakar,Magelang,Malam,1,13,1
+Kentang Goreng,Yogyakarta,Malam,3,17,1
+Es Teh,Semarang,Pagi,4,7,1
+Es Teh,Yogyakarta,Siang,4,4,1
+Kentang Goreng,Magelang,Pagi,5,6,1
+Cappuccino,Magelang,Pagi,1,6,1
+Americano,Yogyakarta,Malam,4,5,1
+Kopi Susu,Semarang,Pagi,4,7,0
+Kopi Susu,Yogyakarta,Pagi,4,8,1
+Kopi Susu,Yogyakarta,Siang,1,6,0
+Cappuccino,Yogyakarta,Malam,1,5,1
+Americano,Magelang,Siang,4,18,1
+Roti Bakar,Yogyakarta,Siang,2,16,1
+Es Teh,Yogyakarta,Siang,5,21,0
+Roti Bakar,Semarang,Pagi,3,12,0
+Es Teh,Magelang,Malam,1,21,0
+Es Teh,Yogyakarta,Siang,3,20,0
+Roti Bakar,Semarang,Sore,4,22,1
+Kopi Susu,Magelang,Siang,4,16,0
+Americano,Magelang,Malam,3,5,1
+Americano,Semarang,Malam,5,6,1
+Kopi Susu,Yogyakarta,Pagi,1,12,0
+Americano,Magelang,Malam,5,6,1
