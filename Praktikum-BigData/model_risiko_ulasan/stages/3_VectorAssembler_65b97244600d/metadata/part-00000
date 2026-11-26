@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1795653699470,"sparkVersion":"3.5.9","uid":"VectorAssembler_65b97244600d","paramMap":{"inputCols":["menu_vec","cabang_vec","qty","waktu_tunggu_menit"],"outputCol":"features"},"defaultParamMap":{"outputCol":"VectorAssembler_65b97244600d__output","handleInvalid":"error"}}
